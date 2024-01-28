@@ -97,7 +97,7 @@ for (const game of steamOwned.response.games.sort((a, b) => b.playtime_forever -
   if(game.playtime_forever === 0) {
     unplayed += `| ![${name}](${image}) | ${name} | ${genresString} |\n`
   } else {
-    const hoursPlayed = Math.round(game.playtime_forever / 60)
+    const hoursPlayed = Math.ceil(game.playtime_forever / 60)
     const favorite = favoriteGames[name]
     played += `| ![${name}](${image}) | ${name} | ${genresString} | ${hoursPlayed} | ${favorite ? "⭐".repeat(favorite) : ""} |\n`
   }
