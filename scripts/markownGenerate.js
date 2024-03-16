@@ -24,8 +24,8 @@ require("fs").writeFileSync(
   "# Games Library\n\n| Image | Name | Genres | Hours Played | Note |\n| --- | --- | --- | --- | --- |\n"
     + output
         .sort((a, b) => {
-          return (b.note || 0) - (a.note || 0)
-            || b.hoursPlayed - a.hoursPlayed
+          return ((b.note || 0) - (a.note || 0))
+            || ((b.hoursPlayed || 0) - (a.hoursPlayed || 0))
             || a.name.localeCompare(b.name)
         })
         .map(({ name, genres, image, hoursPlayed, note }) => {
