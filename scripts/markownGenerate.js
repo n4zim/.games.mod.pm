@@ -19,6 +19,23 @@ for(const game of require("../steam.owned.json").response.games) {
   output.push(current)
 }
 
+for(const game of require("../gog.games.json")) {
+  const found = output.find(({ name }) => name === game.name)
+  if(found) {
+    if(game.gameMins) {
+      found.hoursPlayed = Math.ceil((game.gameMins / 60) + (found.hoursPlayed || 0))
+    }
+  } else {
+    output.push({
+      name: game.name,
+      image: game.image,
+      genres: game.genres,
+      hoursPlayed: Math.ceil(game.gameMins / 60),
+      note: require("../notes.json")[game.name],
+    })
+  }
+}
+
 require("fs").writeFileSync(
   "./README.md",
   "# Games Library\n\n| Image | Name | Genres | Hours Played | Note |\n| --- | --- | --- | --- | --- |\n"
