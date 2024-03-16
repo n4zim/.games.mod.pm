@@ -15,7 +15,7 @@ for(const game of require("../steam.owned.json").response.games) {
   if(game.playtime_forever !== 0) {
     current.hoursPlayed = Math.ceil(game.playtime_forever / 60)
   }
-  current.note = require("../notes.json")[current.name]
+  current.affinity = require("../affinity.json")[current.name]
   output.push(current)
 }
 
@@ -32,22 +32,23 @@ for(const game of require("../gog.games.json")) {
       image: game.image,
       genres: game.genres,
       hoursPlayed: Math.ceil(game.gameMins / 60),
-      note: require("../notes.json")[gameName],
+      affinity: require("../affinity.json")[gameName],
     })
   }
 }
 
 require("fs").writeFileSync(
   "./README.md",
-  "# Games Library\n\n| Image | Name | Genres | Hours Played | Note |\n| --- | --- | --- | --- | --- |\n"
+  "# Games Library\n\n| Image | Name | Genres | Hours Played | Affinity |\n| --- | --- | --- | --- | --- |\n"
     + output
         .sort((a, b) => {
-          return ((b.note || 0) - (a.note || 0))
+          return ((b.affinity || 0) - (a.affinity || 0))
             || ((b.hoursPlayed || 0) - (a.hoursPlayed || 0))
             || a.name.localeCompare(b.name)
         })
-        .map(({ name, genres, image, hoursPlayed, note }) => {
-          return `| ![${name}](${image}) | ${name} | ${genres} | ${hoursPlayed || ""} | ${note ? "⭐".repeat(note) : ""} |\n`
+        .filter(({ name }) => require("../ignored.json").indexOf(name) === -1)
+        .map(({ name, genres, image, hoursPlayed, affinity }) => {
+          return `| ![${name}](${image}) | ${name} | ${genres} | ${hoursPlayed || ""} | ${affinity ? "⭐".repeat(affinity) : ""} |\n`
         })
         .join("")
 )
