@@ -2,11 +2,11 @@
 let output = []
 
 for(const game of require("../steam.owned.json").response.games) {
+  if(require("../ignored.json").indexOf(game.appid) !== -1) continue
+
   const gameData = require("../steam.games.json")[game.appid]
-  if(!gameData) {
-    console.log("Skipping", game.appid)
-    continue
-  }
+  if(!gameData) continue
+
   const current = {
     name: require("../renames.json")[gameData.name] || gameData.name,
     image: gameData.image,
@@ -55,6 +55,10 @@ output = output
     return game
   })
 
+const names = output.map(({ name }) => name)
+const duplicates = names.filter((name, index) => names.indexOf(name) !== index)
+if(duplicates.length) console.error("Duplicates found", duplicates)
+
 require("fs").writeFileSync(
   "./README.md",
   "# Games Library\n\n"
@@ -63,6 +67,7 @@ require("fs").writeFileSync(
     + "- Days played: " + Math.floor(output.reduce((acc, { hoursPlayed }) => acc + (hoursPlayed || 0), 0) / 24) + "\n"
     + "- Total most liked games: " + output.filter(({ affinity }) => affinity === 5).length + "\n"
     + "- Total unplayed games: " + Math.round(output.filter(({ hoursPlayed }) => !hoursPlayed).length / output.length * 100) + "%\n"
+    + "- Total unrated games: " + Math.round(output.filter(({ affinity }) => !affinity).length / output.length * 100) + "%\n"
     + "- Genres: " + Object.entries(genresCount).sort((a, b) => b[1] - a[1]).map(([genre, count]) => `${genre} (${count})`).join(", ")
     + "\n## List\n"
     + "| Image | Name | Genres | Hours Played | Affinity |\n| --- | --- | --- | --- | --- |\n"
