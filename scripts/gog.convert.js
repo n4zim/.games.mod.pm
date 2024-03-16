@@ -37,7 +37,7 @@ const games = gog.slice(1, -1).reduce((all, game) => {
     console.log("Title mismatch:", game.title, game.originalTitle, game.sortingTitle)
   }
 
-  if(current.platformList.indexOf("Steam") !== -1) {
+  if(current.platformList.indexOf("Steam") === -1) {
     const output = {
       name: current.title,
       image: current.squareIcon,
