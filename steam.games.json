@@ -1811,6 +1811,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/210770/header.jpg?t=1602684218"
   },
+  "210970": {
+    "name": "The Witness",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg?t=1598383120"
+  },
   "211360": {
     "name": "Offspring Fling!",
     "genres": [
@@ -4605,6 +4613,15 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/729040/header.jpg?t=1693524213"
   },
+  "731040": {
+    "name": "The Invincible",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/731040/header.jpg?t=1705502528"
+  },
   "731490": {
     "name": "Crash Bandicoot™ N. Sane Trilogy",
     "genres": [
@@ -4864,6 +4881,18 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/header.jpg?t=1689301558"
   },
+  "1028730": {
+    "name": "Creo God Simulator",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Free to Play",
+      "Early Access"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028730/header.jpg?t=1710521914"
+  },
   "1046030": {
     "name": "ISLANDERS",
     "genres": [
@@ -5105,6 +5134,16 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599340/header.jpg?t=1702454470"
   },
+  "1649080": {
+    "name": "Two Point Campus",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649080/header_alt_assets_3.jpg?t=1710439767"
+  },
   "1677770": {
     "name": "The Case of the Golden Idol",
     "genres": [
@@ -5145,6 +5184,14 @@
       "RPG"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812390/header.jpg?t=1656353357"
+  },
+  "1850570": {
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850570/header.jpg?t=1707757419"
   },
   "1873030": {
     "name": "Wolfenstein: Enemy Territory",
