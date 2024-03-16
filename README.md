@@ -1,5 +1,12 @@
 # Games Library
 
+## Stats
+- Total games: 847
+- Days played: 158
+- Total most liked games: 35
+- Total unplayed games: 56%
+- Genres: Indie (424), Adventure (346), Action (329), Strategy (196), RPG (170), Casual (106), Simulation (94), Simulator (55), Shooter (47), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (20), Arcade (20), Tactical (17), Hack and slash/Beat 'em up (13), Early Access (12), Turn-based strategy (TBS) (10), Point-and-click (10),  (9), Fighting (9), RTS (9), Card & Board Game (7), Pinball (3), Quiz/Trivia (2), Music (2), Gore (1), Visual Novel (1)
+## List
 | Image | Name | Genres | Hours Played | Affinity |
 | --- | --- | --- | --- | --- |
 | ![Factorio](https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg?t=1694021968) | Factorio | Casual, Indie, Simulation, Strategy | 294 | ⭐⭐⭐⭐⭐ |
@@ -148,7 +155,6 @@
 | ![Genital Jousting](https://cdn.akamai.steamstatic.com/steam/apps/469820/header.jpg?t=1660321242) | Genital Jousting | Action, Indie | 5 |  |
 | ![Magicka 2](https://cdn.akamai.steamstatic.com/steam/apps/238370/header.jpg?t=1681240322) | Magicka 2 | Action, Adventure | 5 |  |
 | ![Octodad: Dadliest Catch](https://cdn.akamai.steamstatic.com/steam/apps/224480/header.jpg?t=1694015218) | Octodad: Dadliest Catch | Action, Adventure, Indie | 5 |  |
-| ![Spriter Pro](https://cdn.akamai.steamstatic.com/steam/apps/332360/header.jpg?t=1667385572) | Spriter Pro | Animation & Modeling, Design & Illustration, Utilities | 5 |  |
 | ![SUPERHOT: MIND CONTROL DELETE](https://cdn.akamai.steamstatic.com/steam/apps/690040/header.jpg?t=1705922077) | SUPERHOT: MIND CONTROL DELETE | Action, Indie | 5 |  |
 | ![The Lab](https://cdn.akamai.steamstatic.com/steam/apps/450390/header.jpg?t=1677266902) | The Lab | Free to Play | 5 |  |
 | ![The Stanley Parable: Ultra Deluxe](https://cdn.akamai.steamstatic.com/steam/apps/1703340/header.jpg?t=1683922822) | The Stanley Parable: Ultra Deluxe | Adventure, Casual, Indie | 5 |  |
@@ -162,7 +168,6 @@
 | ![FEZ](https://cdn.akamai.steamstatic.com/steam/apps/224760/header.jpg?t=1572375251) | FEZ | Indie | 4 |  |
 | ![Half-Life: Source](https://cdn.akamai.steamstatic.com/steam/apps/280/header.jpg?t=1700246092) | Half-Life: Source | Action | 4 |  |
 | ![Late For Work](https://cdn.akamai.steamstatic.com/steam/apps/623540/header.jpg?t=1667052491) | Late For Work | Action, Casual, Indie | 4 |  |
-| ![LIV](https://cdn.akamai.steamstatic.com/steam/apps/755540/header.jpg?t=1695060847) | LIV | Utilities, Video Production, Web Publishing | 4 |  |
 | ![Prominence Poker](https://cdn.akamai.steamstatic.com/steam/apps/384180/header.jpg?t=1698276892) | Prominence Poker | Casual, Massively Multiplayer, Simulation, Strategy, Free to Play | 4 |  |
 | ![SLUDGE LIFE 2](https://cdn.akamai.steamstatic.com/steam/apps/2275150/header.jpg?t=1700652014) | SLUDGE LIFE 2 | Adventure, Indie | 4 |  |
 | ![Superliminal](https://cdn.akamai.steamstatic.com/steam/apps/1049410/header.jpg?t=1663957747) | Superliminal | Action, Adventure | 4 |  |
@@ -365,7 +370,6 @@
 | ![The Polynomial - Space of the music](https://cdn.akamai.steamstatic.com/steam/apps/67000/header.jpg?t=1558057515) | The Polynomial - Space of the music | Action, Casual, Indie | 1 |  |
 | ![The Sims™ 4](https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1705600873) | The Sims™ 4 | Adventure, Casual, Simulation, Free to Play | 1 |  |
 | ![Thumper](https://cdn.akamai.steamstatic.com/steam/apps/356400/header.jpg?t=1677622045) | Thumper | Action, Indie | 1 |  |
-| ![Tilt Brush](https://cdn.akamai.steamstatic.com/steam/apps/327140/header.jpg?t=1560985959) | Tilt Brush | Design & Illustration | 1 |  |
 | ![Toki Tori](https://cdn.akamai.steamstatic.com/steam/apps/38700/header.jpg?t=1596256691) | Toki Tori | Casual, Indie | 1 |  |
 | ![Totally Accurate Battle Simulator](https://cdn.akamai.steamstatic.com/steam/apps/508440/header.jpg?t=1702991264) | Totally Accurate Battle Simulator | Indie, Simulation, Strategy | 1 |  |
 | ![Tropico 4](https://cdn.akamai.steamstatic.com/steam/apps/57690/header.jpg?t=1699552768) | Tropico 4 | Simulation, Strategy | 1 |  |
@@ -374,7 +378,6 @@
 | ![Ultimate Chicken Horse](https://cdn.akamai.steamstatic.com/steam/apps/386940/header.jpg?t=1703180533) | Ultimate Chicken Horse | Action, Casual, Indie | 1 |  |
 | ![Unreal Tournament: Game of the Year Edition](https://cdn.akamai.steamstatic.com/steam/apps/13240/header.jpg?t=1671033924) | Unreal Tournament: Game of the Year Edition | Action | 1 |  |
 | ![Uplink](https://cdn.akamai.steamstatic.com/steam/apps/1510/header.jpg?t=1677710894) | Uplink | Indie, Strategy | 1 |  |
-| ![Virtual Desktop Classic](https://cdn.akamai.steamstatic.com/steam/apps/382110/header.jpg?t=1698249040) | Virtual Desktop Classic | Utilities | 1 |  |
 | ![Warhammer® 40,000: Dawn of War® II Chaos Rising](https://cdn.akamai.steamstatic.com/steam/apps/20570/header.jpg?t=1603128043) | Warhammer® 40,000: Dawn of War® II Chaos Rising | Strategy | 1 |  |
 | ![World of Goo](https://cdn.akamai.steamstatic.com/steam/apps/22000/header.jpg?t=1587578439) | World of Goo | Indie | 1 |  |
 | ![Xenonauts](https://cdn.akamai.steamstatic.com/steam/apps/223830/header.jpg?t=1673967760) | Xenonauts | Indie, Simulation, Strategy | 1 |  |
