@@ -8,7 +8,7 @@ for(const game of require("../steam.owned.json").response.games) {
     continue
   }
   const current = {
-    name: gameData.name,
+    name: require("../renames.json")[gameData.name] || gameData.name,
     image: gameData.image,
     genres: gameData.genres.join(", "),
   }
@@ -20,18 +20,19 @@ for(const game of require("../steam.owned.json").response.games) {
 }
 
 for(const game of require("../gog.games.json")) {
-  const found = output.find(({ name }) => name === game.name)
+  const gameName = require("../renames.json")[game.name] || game.name
+  const found = output.find(({ name }) => name === gameName)
   if(found) {
     if(game.gameMins) {
       found.hoursPlayed = Math.ceil((game.gameMins / 60) + (found.hoursPlayed || 0))
     }
   } else {
     output.push({
-      name: game.name,
+      name: gameName,
       image: game.image,
       genres: game.genres,
       hoursPlayed: Math.ceil(game.gameMins / 60),
-      note: require("../notes.json")[game.name],
+      note: require("../notes.json")[gameName],
     })
   }
 }

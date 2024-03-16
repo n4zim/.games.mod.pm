@@ -3,6 +3,7 @@
 | Image | Name | Genres | Hours Played | Note |
 | --- | --- | --- | --- | --- |
 | ![Factorio](https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg?t=1694021968) | Factorio | Casual, Indie, Simulation, Strategy | 294 | ⭐⭐⭐⭐⭐ |
+| ![HITMAN 3](https://images.gog.com/d9c16deebf1712a92e2937c3d0d435721cc82cd8b3d8d8c9d2f8692041a4384a_glx_square_icon_v2.webp?namespace=gamesdb) | HITMAN 3 | Adventure, Shooter, Tactical | 200 | ⭐⭐⭐⭐⭐ |
 | ![Cities: Skylines](https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg?t=1699527482) | Cities: Skylines | Simulation, Strategy | 113 | ⭐⭐⭐⭐⭐ |
 | ![Fallout 4](https://cdn.akamai.steamstatic.com/steam/apps/377160/header.jpg?t=1650909928) | Fallout 4 | RPG | 103 | ⭐⭐⭐⭐⭐ |
 | ![Two Point Hospital](https://cdn.akamai.steamstatic.com/steam/apps/535930/header.jpg?t=1702376601) | Two Point Hospital | Indie, Simulation | 61 | ⭐⭐⭐⭐⭐ |
@@ -47,6 +48,7 @@
 | ![Pistol Whip](https://cdn.akamai.steamstatic.com/steam/apps/1079800/header.jpg?t=1702494201) | Pistol Whip | Action, Indie | 18 | ⭐⭐⭐⭐ |
 | ![The Talos Principle](https://cdn.akamai.steamstatic.com/steam/apps/257510/header.jpg?t=1704495040) | The Talos Principle | Action, Adventure, Indie | 18 | ⭐⭐⭐⭐ |
 | ![Beat Saber](https://cdn.akamai.steamstatic.com/steam/apps/620980/header.jpg?t=1701968029) | Beat Saber | Indie | 17 | ⭐⭐⭐⭐ |
+| ![Burnout Paradise: The Ultimate Box](https://cdn.akamai.steamstatic.com/steam/apps/24740/header.jpg?t=1591283062) | Burnout Paradise: The Ultimate Box | Racing | 16 | ⭐⭐⭐⭐ |
 | ![Half-Life 2](https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg?t=1699003213) | Half-Life 2 | Action | 15 | ⭐⭐⭐⭐ |
 | ![Chants of Sennaar](https://cdn.akamai.steamstatic.com/steam/apps/1931770/header.jpg?t=1705488810) | Chants of Sennaar | Adventure, Indie | 12 | ⭐⭐⭐⭐ |
 | ![Metro 2033](https://cdn.akamai.steamstatic.com/steam/apps/43110/header.jpg?t=1616437108) | Metro 2033 | Action | 12 | ⭐⭐⭐⭐ |
@@ -66,21 +68,23 @@
 | ![SPORE™](https://cdn.akamai.steamstatic.com/steam/apps/17390/header.jpg?t=1642702281) | SPORE™ | Action, Adventure, Casual, RPG, Simulation, Strategy | 5 | ⭐⭐⭐⭐ |
 | ![Alan Wake](https://cdn.akamai.steamstatic.com/steam/apps/108710/header.jpg?t=1667485381) | Alan Wake | Action, Adventure | 2 | ⭐⭐⭐⭐ |
 | ![Half-Life](https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg?t=1700269108) | Half-Life | Action | 1 | ⭐⭐⭐⭐ |
+| ![SimCity™](https://images.gog.com/afe86ce5872e8a1d5a2b4a3dde68000a20123b90cf59ec33ed681c63b43b1878_glx_square_icon_v2.webp?namespace=gamesdb) | SimCity™ | Simulator, Strategy | 82 | ⭐⭐⭐ |
 | ![Left 4 Dead 2](https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg?t=1675801903) | Left 4 Dead 2 | Action | 53 | ⭐⭐⭐ |
+| ![Mass Effect™: Andromeda](https://images.gog.com/1e45919d6060eceb49075652176bd87cbc573d8fc38f57a24b147bce1bc66f0d_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™: Andromeda | Adventure, Role-playing (RPG), Shooter | 50 | ⭐⭐⭐ |
+| ![No Man's Sky](https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg?t=1704984733) | No Man's Sky | Action, Adventure | 50 | ⭐⭐⭐ |
 | ![Overlord™](https://cdn.akamai.steamstatic.com/steam/apps/11450/header.jpg?t=1656371873) | Overlord™ | RPG | 31 | ⭐⭐⭐ |
 | ![Mini Metro](https://cdn.akamai.steamstatic.com/steam/apps/287980/header.jpg?t=1689886905) | Mini Metro | Indie, Simulation, Strategy | 28 | ⭐⭐⭐ |
 | ![Turmoil](https://cdn.akamai.steamstatic.com/steam/apps/361280/header.jpg?t=1676993558) | Turmoil | Indie, Simulation, Strategy | 20 | ⭐⭐⭐ |
+| ![Magicka](https://cdn.akamai.steamstatic.com/steam/apps/42910/header.jpg?t=1615973729) | Magicka | Action, RPG | 14 | ⭐⭐⭐ |
+| ![Unrailed!](https://cdn.akamai.steamstatic.com/steam/apps/1016920/header.jpg?t=1705423059) | Unrailed! | Action, Casual, Indie | 14 | ⭐⭐⭐ |
 | ![Stick Fight: The Game](https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg?t=1702991556) | Stick Fight: The Game | Action, Casual, Indie | 13 | ⭐⭐⭐ |
 | ![Project Zomboid](https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg?t=1691508011) | Project Zomboid | Indie, RPG, Simulation, Early Access | 5 | ⭐⭐⭐ |
 | ![Borderlands Game of the Year](https://cdn.akamai.steamstatic.com/steam/apps/8980/header.jpg?t=1692308968) | Borderlands Game of the Year | Action, RPG | 4 | ⭐⭐⭐ |
-| ![HITMAN 3](https://images.gog.com/d9c16deebf1712a92e2937c3d0d435721cc82cd8b3d8d8c9d2f8692041a4384a_glx_square_icon_v2.webp?namespace=gamesdb) | HITMAN 3 | Adventure, Shooter, Tactical | 200 |  |
-| ![SimCity™](https://images.gog.com/afe86ce5872e8a1d5a2b4a3dde68000a20123b90cf59ec33ed681c63b43b1878_glx_square_icon_v2.webp?namespace=gamesdb) | SimCity™ | Simulator, Strategy | 82 |  |
-| ![DEATH STRANDING DIRECTOR'S CUT](https://cdn.akamai.steamstatic.com/steam/apps/1850570/header.jpg?t=1707757419) | DEATH STRANDING DIRECTOR'S CUT | Action, Adventure | 77 |  |
-| ![Mass Effect™: Andromeda](https://images.gog.com/1e45919d6060eceb49075652176bd87cbc573d8fc38f57a24b147bce1bc66f0d_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™: Andromeda | Adventure, Role-playing (RPG), Shooter | 50 |  |
-| ![No Man's Sky](https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg?t=1704984733) | No Man's Sky | Action, Adventure | 50 |  |
-| ![Death Stranding](https://images.gog.com/9b17ce9b632e859cbb4fa7b9a67cddb37f5aa97ffc0591b85e3131757e6300ea_glx_square_icon_v2.webp?namespace=gamesdb) | Death Stranding | Adventure, Role-playing (RPG), Shooter | 49 |  |
+| ![Red Dead Redemption 2](https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1695140956) | Red Dead Redemption 2 | Action, Adventure | 16 | ⭐⭐ |
+| ![Hitman: Absolution™](https://cdn.akamai.steamstatic.com/steam/apps/203140/header.jpg?t=1667311063) | Hitman: Absolution™ | Action | 12 | ⭐⭐ |
+| ![DEATH STRANDING DIRECTOR'S CUT](https://cdn.akamai.steamstatic.com/steam/apps/1850570/header.jpg?t=1707757419) | DEATH STRANDING DIRECTOR'S CUT | Action, Adventure | 126 |  |
 | ![Rocket League®](https://cdn.akamai.steamstatic.com/steam/apps/252950/header.jpg?t=1701892365) | Rocket League® | Action, Indie, Racing, Sports | 40 |  |
-| ![Mass Effect™ 3 Demo](https://images.gog.com/acc4854d9d05aa741bbe18b2126934a378b16eb818506eec2d9d6ad554fa30ba_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™ 3 Demo | Adventure, Role-playing (RPG), Shooter | 37 |  |
+| ![Mass Effect™ 3](https://images.gog.com/acc4854d9d05aa741bbe18b2126934a378b16eb818506eec2d9d6ad554fa30ba_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™ 3 | Adventure, Role-playing (RPG), Shooter | 37 |  |
 | ![Stellaris](https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg?t=1700151517) | Stellaris | Simulation, Strategy | 37 |  |
 | ![Plants vs. Zombies GOTY Edition](https://cdn.akamai.steamstatic.com/steam/apps/3590/header.jpg?t=1615390608) | Plants vs. Zombies GOTY Edition | Strategy | 35 |  |
 | ![Trackmania United Forever](https://cdn.akamai.steamstatic.com/steam/apps/7200/header.jpg?t=1680016410) | Trackmania United Forever | Racing | 35 |  |
@@ -93,14 +97,9 @@
 | ![Screeps: World](https://cdn.akamai.steamstatic.com/steam/apps/464350/header.jpg?t=1702321038) | Screeps: World | Indie, Massively Multiplayer, Simulation, Strategy | 18 |  |
 | ![We Happy Few](https://cdn.akamai.steamstatic.com/steam/apps/320240/header.jpg?t=1648680905) | We Happy Few | Action, Adventure, Indie | 18 |  |
 | ![Counter-Strike](https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg?t=1666823513) | Counter-Strike | Action | 17 |  |
-| ![Burnout Paradise: The Ultimate Box](https://cdn.akamai.steamstatic.com/steam/apps/24740/header.jpg?t=1591283062) | Burnout Paradise: The Ultimate Box | Racing | 16 |  |
 | ![Mass Effect™](https://images.gog.com/6cf789e8ca74f5120fb8fbfd032f4c2ff0bc15c914bff74176df87a722274fe0_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™ | Role-playing (RPG), Shooter | 16 |  |
-| ![Red Dead Redemption 2](https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1695140956) | Red Dead Redemption 2 | Action, Adventure | 16 |  |
-| ![Magicka](https://cdn.akamai.steamstatic.com/steam/apps/42910/header.jpg?t=1615973729) | Magicka | Action, RPG | 14 |  |
-| ![Unrailed!](https://cdn.akamai.steamstatic.com/steam/apps/1016920/header.jpg?t=1705423059) | Unrailed! | Action, Casual, Indie | 14 |  |
 | ![Worms Reloaded](https://cdn.akamai.steamstatic.com/steam/apps/22600/header.jpg?t=1596807362) | Worms Reloaded | Strategy | 14 |  |
 | ![Grand Theft Auto IV: The Complete Edition](https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg?t=1695131205) | Grand Theft Auto IV: The Complete Edition | Action, Adventure | 12 |  |
-| ![Hitman: Absolution™](https://cdn.akamai.steamstatic.com/steam/apps/203140/header.jpg?t=1667311063) | Hitman: Absolution™ | Action | 12 |  |
 | ![Serious Sam HD: The First Encounter](https://cdn.akamai.steamstatic.com/steam/apps/41000/header.jpg?t=1601674786) | Serious Sam HD: The First Encounter | Action, Indie | 12 |  |
 | ![Beat Hazard](https://cdn.akamai.steamstatic.com/steam/apps/49600/header.jpg?t=1668763580) | Beat Hazard | Action, Casual, Indie | 11 |  |
 | ![Overcooked! 2](https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg?t=1705075463) | Overcooked! 2 | Action, Casual, Indie | 11 |  |
