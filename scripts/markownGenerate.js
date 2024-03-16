@@ -2,13 +2,19 @@
 let output = []
 
 for(const game of require("../steam.owned.json").response.games) {
-  if(require("../ignored.json").indexOf(game.appid) !== -1) continue
-
   const gameData = require("../steam.games.json")[game.appid]
   if(!gameData) continue
 
+  const gameName = require("../renames.json")[gameData.name] || gameData.name
+
+  const found = output.find(({ name }) => name === gameName)
+  if(found) {
+    found.hoursPlayed += Math.ceil(game.playtime_forever / 60)
+    continue
+  }
+
   const current = {
-    name: require("../renames.json")[gameData.name] || gameData.name,
+    name: gameName,
     image: gameData.image,
     genres: gameData.genres.join(", "),
   }
