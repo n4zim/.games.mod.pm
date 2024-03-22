@@ -5,7 +5,7 @@
 - Days played: 158
 - Total most liked games: 37
 - Total unplayed games: 56%
-- Total unrated games: 71%
+- Total unrated games: 67%
 - Genres: Indie (422), Adventure (343), Action (321), Strategy (194), RPG (165), Casual (106), Simulation (93), Simulator (54), Shooter (46), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (20), Arcade (19), Tactical (16), Hack and slash/Beat 'em up (13), Early Access (12), Turn-based strategy (TBS) (10), Point-and-click (10), Fighting (9), RTS (9), Card & Board Game (7), Pinball (3), Quiz/Trivia (2),  (2), Music (2), Gore (1), Visual Novel (1)
 ## List
 | Image | Name | Genres | Hours Played | Affinity |
@@ -120,7 +120,9 @@
 | ![F.E.A.R. 2: Project Origin](https://cdn.akamai.steamstatic.com/steam/apps/16450/header.jpg?t=1681232401) | F.E.A.R. 2: Project Origin | Action | 2 | ⭐⭐⭐⭐ |
 | ![Her Story](https://cdn.akamai.steamstatic.com/steam/apps/368370/header.jpg?t=1684962832) | Her Story | Adventure, Casual, Indie, Simulation | 2 | ⭐⭐⭐⭐ |
 | ![Papers, Please](https://cdn.akamai.steamstatic.com/steam/apps/239030/header.jpg?t=1678266428) | Papers, Please | Adventure, Indie | 2 | ⭐⭐⭐⭐ |
+| ![Peggle™ Nights](https://cdn.akamai.steamstatic.com/steam/apps/3540/header.jpg?t=1615208369) | Peggle™ Nights | Casual | 2 | ⭐⭐⭐⭐ |
 | ![Reigns](https://cdn.akamai.steamstatic.com/steam/apps/474750/header.jpg?t=1645113589) | Reigns | Adventure, Indie, RPG, Simulation | 2 | ⭐⭐⭐⭐ |
+| ![SUPERHOT VR](https://cdn.akamai.steamstatic.com/steam/apps/617830/header.jpg?t=1686050022) | SUPERHOT VR | Action, Indie | 2 | ⭐⭐⭐⭐ |
 | ![Untitled Goose Game](https://images.gog.com/3f80e2913ca2fee63e0958822c443bffc4bc1460b8fad2257badbec6ee593fc2_glx_square_icon_v2.webp?namespace=gamesdb) | Untitled Goose Game | Adventure, Indie, Puzzle, Simulator | 2 | ⭐⭐⭐⭐ |
 | ![Half-Life](https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg?t=1700269108) | Half-Life | Action | 1 | ⭐⭐⭐⭐ |
 | ![Home](https://cdn.akamai.steamstatic.com/steam/apps/215670/header.jpg?t=1704052890) | Home | Adventure, Indie | 1 | ⭐⭐⭐⭐ |
@@ -201,22 +203,40 @@
 | ![Metro Exodus](https://cdn.akamai.steamstatic.com/steam/apps/412020/header.jpg?t=1704725230) | Metro Exodus | Action | 3 | ⭐⭐⭐ |
 | ![Poker Night at the Inventory](https://cdn.akamai.steamstatic.com/steam/apps/31280/header.jpg?t=1558627507) | Poker Night at the Inventory | Casual, Sports | 3 | ⭐⭐⭐ |
 | ![Road Redemption](https://cdn.akamai.steamstatic.com/steam/apps/300380/header.jpg?t=1688187760) | Road Redemption | Action, Adventure, Indie, Racing, Simulation | 3 | ⭐⭐⭐ |
+| ![RUSH](https://cdn.akamai.steamstatic.com/steam/apps/38720/header.jpg?t=1488470929) | RUSH | Casual, Indie, Strategy | 3 | ⭐⭐⭐ |
 | ![Secret World Legends](https://cdn.akamai.steamstatic.com/steam/apps/215280/header.jpg?t=1675332695) | Secret World Legends | Action, Adventure, Free to Play, Massively Multiplayer, RPG | 3 | ⭐⭐⭐ |
 | ![Splice](https://cdn.akamai.steamstatic.com/steam/apps/209790/header.jpg?t=1447355599) | Splice | Indie, Casual | 3 | ⭐⭐⭐ |
+| ![Stikbold! A Dodgeball Adventure](https://cdn.akamai.steamstatic.com/steam/apps/429330/header.jpg?t=1634658863) | Stikbold! A Dodgeball Adventure | Action, Indie, Sports | 3 | ⭐⭐⭐ |
 | ![TrackMania Nations Forever](https://cdn.akamai.steamstatic.com/steam/apps/11020/header.jpg?t=1548090419) | TrackMania Nations Forever | Racing | 3 | ⭐⭐⭐ |
+| ![while True: learn()](https://images.gog.com/25fc593dfe2b9d96bb89e0b279b6c4cad73590514e7a8f5170ebdb9d17ca31db_glx_square_icon_v2.webp?namespace=gamesdb) | while True: learn() | Indie, Puzzle, Simulator | 3 | ⭐⭐⭐ |
 | ![Accounting+](https://cdn.akamai.steamstatic.com/steam/apps/927270/header.jpg?t=1635817509) | Accounting+ | Action, Adventure, Casual, Indie, Simulation | 2 | ⭐⭐⭐ |
 | ![Amnesia: The Dark Descent](https://cdn.akamai.steamstatic.com/steam/apps/57300/header.jpg?t=1685699016) | Amnesia: The Dark Descent | Action, Adventure, Indie | 2 | ⭐⭐⭐ |
 | ![BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](https://cdn.akamai.steamstatic.com/steam/apps/218060/header.jpg?t=1706303147) | BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien | Action, Casual, Indie | 2 | ⭐⭐⭐ |
+| ![Cities: Skylines II](https://cdn.akamai.steamstatic.com/steam/apps/949230/header.jpg?t=1705654583) | Cities: Skylines II | Simulation | 2 | ⭐⭐⭐ |
+| ![Control](https://images.gog.com/f5d4c750155f5ed637ed1b3c207b01d32429ded62d66a41e654a5894abbc6906_glx_square_icon_v2.webp?namespace=gamesdb) | Control | Adventure, Shooter | 2 | ⭐⭐⭐ |
+| ![Crazy Machines 3](https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1668632247) | Crazy Machines 3 | Simulation, Strategy | 2 | ⭐⭐⭐ |
 | ![Dead Rising 4](https://cdn.akamai.steamstatic.com/steam/apps/543460/header.jpg?t=1644282464) | Dead Rising 4 | Action | 2 | ⭐⭐⭐ |
+| ![Draw a Stickman: EPIC 2](https://cdn.akamai.steamstatic.com/steam/apps/403180/header.jpg?t=1588968640) | Draw a Stickman: EPIC 2 | Adventure, Casual, Indie | 2 | ⭐⭐⭐ |
 | ![ENDLESS™ Space 2](https://cdn.akamai.steamstatic.com/steam/apps/392110/header.jpg?t=1705417025) | ENDLESS™ Space 2 | Strategy | 2 | ⭐⭐⭐ |
+| ![Eufloria](https://cdn.akamai.steamstatic.com/steam/apps/41210/header.jpg?t=1447351757) | Eufloria | Indie, Strategy | 2 | ⭐⭐⭐ |
 | ![Fallout 4 VR](https://cdn.akamai.steamstatic.com/steam/apps/611660/header.jpg?t=1607445202) | Fallout 4 VR | RPG | 2 | ⭐⭐⭐ |
+| ![Grim Fandango Remastered](https://cdn.akamai.steamstatic.com/steam/apps/316790/header.jpg?t=1677883403) | Grim Fandango Remastered | Adventure | 2 | ⭐⭐⭐ |
+| ![I Expect You To Die](https://cdn.akamai.steamstatic.com/steam/apps/587430/header.jpg?t=1698699739) | I Expect You To Die | Adventure | 2 | ⭐⭐⭐ |
+| ![Job Simulator](https://cdn.akamai.steamstatic.com/steam/apps/448280/header.jpg?t=1597260705) | Job Simulator | Simulation | 2 | ⭐⭐⭐ |
+| ![Killing Floor](https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg?t=1697726402) | Killing Floor | Action | 2 | ⭐⭐⭐ |
+| ![LEGO® Batman™: The Videogame](https://cdn.akamai.steamstatic.com/steam/apps/21000/header.jpg?t=1681923978) | LEGO® Batman™: The Videogame | Action, Adventure | 2 | ⭐⭐⭐ |
+| ![McPixel](https://cdn.akamai.steamstatic.com/steam/apps/220860/header.jpg?t=1656331878) | McPixel | Action, Adventure, Indie | 2 | ⭐⭐⭐ |
 | ![METAL GEAR SOLID V: THE PHANTOM PAIN](https://cdn.akamai.steamstatic.com/steam/apps/287700/header.jpg?t=1690416673) | METAL GEAR SOLID V: THE PHANTOM PAIN | Action, Adventure | 2 | ⭐⭐⭐ |
+| ![Orwell: Keeping an Eye On You](https://cdn.akamai.steamstatic.com/steam/apps/491950/header.jpg?t=1694074337) | Orwell: Keeping an Eye On You | Adventure, Indie, Simulation | 2 | ⭐⭐⭐ |
 | ![Prison Architect](https://cdn.akamai.steamstatic.com/steam/apps/233450/header.jpg?t=1705500802) | Prison Architect | Indie, Simulation, Strategy | 2 | ⭐⭐⭐ |
 | ![Quiplash](https://cdn.akamai.steamstatic.com/steam/apps/351510/header.jpg?t=1667412449) | Quiplash | Casual, Indie, Strategy | 2 | ⭐⭐⭐ |
 | ![Rock of Ages](https://cdn.akamai.steamstatic.com/steam/apps/22230/header.jpg?t=1667563022) | Rock of Ages | Action, Indie, Racing, Strategy | 2 | ⭐⭐⭐ |
 | ![Seeking Dawn](https://cdn.akamai.steamstatic.com/steam/apps/859340/header.jpg?t=1584614884) | Seeking Dawn | Adventure, Indie | 2 | ⭐⭐⭐ |
+| ![Serious Sam VR: The Last Hope](https://cdn.akamai.steamstatic.com/steam/apps/465240/header.jpg?t=1569318967) | Serious Sam VR: The Last Hope | Action, Indie | 2 | ⭐⭐⭐ |
 | ![South Park™: The Stick of Truth™](https://cdn.akamai.steamstatic.com/steam/apps/213670/header.jpg?t=1680013652) | South Park™: The Stick of Truth™ | Action, Adventure, RPG | 2 | ⭐⭐⭐ |
 | ![The Experiment: Escape Room](https://cdn.akamai.steamstatic.com/steam/apps/977570/header.jpg?t=1673614111) | The Experiment: Escape Room | Adventure, Casual, Indie | 2 | ⭐⭐⭐ |
+| ![The Witcher 2: Assassins of Kings Enhanced Edition](https://cdn.akamai.steamstatic.com/steam/apps/20920/header.jpg?t=1700481810) | The Witcher 2: Assassins of Kings Enhanced Edition | RPG | 2 | ⭐⭐⭐ |
+| ![Universe Sandbox](https://cdn.akamai.steamstatic.com/steam/apps/230290/header.jpg?t=1705004897) | Universe Sandbox | Casual, Indie, Simulation, Early Access | 2 | ⭐⭐⭐ |
 | ![Aperture Desk Job](https://cdn.akamai.steamstatic.com/steam/apps/1902490/header.jpg?t=1698914307) | Aperture Desk Job | Action, Adventure, Casual, Free to Play | 1 | ⭐⭐⭐ |
 | ![BioShock® 2](https://cdn.akamai.steamstatic.com/steam/apps/8850/header.jpg?t=1568765660) | BioShock® 2 | Action | 1 | ⭐⭐⭐ |
 | ![Buissons](https://cdn.akamai.steamstatic.com/steam/apps/1151930/header.jpg?t=1644837752) | Buissons | Action, Casual, Indie | 1 | ⭐⭐⭐ |
@@ -247,37 +267,17 @@
 | ![Prominence Poker](https://cdn.akamai.steamstatic.com/steam/apps/384180/header.jpg?t=1698276892) | Prominence Poker | Casual, Massively Multiplayer, Simulation, Strategy, Free to Play | 4 | ⭐⭐ |
 | ![Worms Clan Wars](https://cdn.akamai.steamstatic.com/steam/apps/233840/header.jpg?t=1655730300) | Worms Clan Wars | Strategy | 3 | ⭐⭐ |
 | ![Adios](https://images.gog.com/6dd436603c9f02c4ef0a56ad0107756da89c4941b252bf9ce359acad679426df_glx_square_icon_v2.webp?namespace=gamesdb) | Adios | Adventure, Indie, Simulator | 2 | ⭐⭐ |
+| ![Chime](https://cdn.akamai.steamstatic.com/steam/apps/62100/header.jpg?t=1585644407) | Chime | Casual | 2 | ⭐⭐ |
+| ![Company of Heroes: Opposing Fronts](https://cdn.akamai.steamstatic.com/steam/apps/9340/header.jpg?t=1669384458) | Company of Heroes: Opposing Fronts | Action, Strategy | 2 | ⭐⭐ |
+| ![Dishonored - Definitive Edition](https://images.gog.com/39f4dfc1951e7beb36b71271b2b415fabd882a56645a01fe03eedadbc5e0c298_glx_square_icon_v2.webp?namespace=gamesdb) | Dishonored - Definitive Edition | Adventure, Puzzle, Role-playing (RPG) | 2 | ⭐⭐ |
+| ![SHENZHEN I/O](https://cdn.akamai.steamstatic.com/steam/apps/504210/header.jpg?t=1667071700) | SHENZHEN I/O | Indie, Simulation | 2 | ⭐⭐ |
+| ![STAR WARS™: Squadrons](https://images.gog.com/f884a994c4b2cc7d74660d50d09509a656427ab4abb59503564634d3cf4bf0b7_glx_square_icon_v2.webp?namespace=gamesdb) | STAR WARS™: Squadrons | Shooter, Simulator | 2 | ⭐⭐ |
 | ![VVVVVV](https://cdn.akamai.steamstatic.com/steam/apps/70300/header.jpg?t=1704968437) | VVVVVV | Action, Indie | 2 | ⭐⭐ |
+| ![>observer_](https://cdn.akamai.steamstatic.com/steam/apps/514900/header.jpg?t=1684279051) | >observer_ | Adventure, Indie | 1 | ⭐⭐ |
 | ![Day of Defeat](https://cdn.akamai.steamstatic.com/steam/apps/30/header.jpg?t=1512413490) | Day of Defeat | Action | 1 | ⭐⭐ |
 | ![PlanetSide 2](https://cdn.akamai.steamstatic.com/steam/apps/218230/header.jpg?t=1700252005) | PlanetSide 2 | Action, Massively Multiplayer, Free to Play | 1 | ⭐⭐ |
 | ![Ricochet](https://cdn.akamai.steamstatic.com/steam/apps/60/header.jpg?t=1599518374) | Ricochet | Action | 1 | ⭐⭐ |
 | ![Sid Meier's Civilization VI](https://images.gog.com/18d95bbd1690461bd3820e0064a23db72dce383a4fcb1cbc2c049913bc0a9f58_glx_square_icon_v2.webp?namespace=gamesdb) | Sid Meier's Civilization VI | Simulator, Strategy | 1 | ⭐⭐ |
-| ![RUSH](https://cdn.akamai.steamstatic.com/steam/apps/38720/header.jpg?t=1488470929) | RUSH | Casual, Indie, Strategy | 3 |  |
-| ![Stikbold! A Dodgeball Adventure](https://cdn.akamai.steamstatic.com/steam/apps/429330/header.jpg?t=1634658863) | Stikbold! A Dodgeball Adventure | Action, Indie, Sports | 3 |  |
-| ![while True: learn()](https://images.gog.com/25fc593dfe2b9d96bb89e0b279b6c4cad73590514e7a8f5170ebdb9d17ca31db_glx_square_icon_v2.webp?namespace=gamesdb) | while True: learn() | Indie, Puzzle, Simulator | 3 |  |
-| ![Chime](https://cdn.akamai.steamstatic.com/steam/apps/62100/header.jpg?t=1585644407) | Chime | Casual | 2 |  |
-| ![Cities: Skylines II](https://cdn.akamai.steamstatic.com/steam/apps/949230/header.jpg?t=1705654583) | Cities: Skylines II | Simulation | 2 |  |
-| ![Company of Heroes: Opposing Fronts](https://cdn.akamai.steamstatic.com/steam/apps/9340/header.jpg?t=1669384458) | Company of Heroes: Opposing Fronts | Action, Strategy | 2 |  |
-| ![Control](https://images.gog.com/f5d4c750155f5ed637ed1b3c207b01d32429ded62d66a41e654a5894abbc6906_glx_square_icon_v2.webp?namespace=gamesdb) | Control | Adventure, Shooter | 2 |  |
-| ![Crazy Machines 3](https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1668632247) | Crazy Machines 3 | Simulation, Strategy | 2 |  |
-| ![Dishonored - Definitive Edition](https://images.gog.com/39f4dfc1951e7beb36b71271b2b415fabd882a56645a01fe03eedadbc5e0c298_glx_square_icon_v2.webp?namespace=gamesdb) | Dishonored - Definitive Edition | Adventure, Puzzle, Role-playing (RPG) | 2 |  |
-| ![Draw a Stickman: EPIC 2](https://cdn.akamai.steamstatic.com/steam/apps/403180/header.jpg?t=1588968640) | Draw a Stickman: EPIC 2 | Adventure, Casual, Indie | 2 |  |
-| ![Eufloria](https://cdn.akamai.steamstatic.com/steam/apps/41210/header.jpg?t=1447351757) | Eufloria | Indie, Strategy | 2 |  |
-| ![Grim Fandango Remastered](https://cdn.akamai.steamstatic.com/steam/apps/316790/header.jpg?t=1677883403) | Grim Fandango Remastered | Adventure | 2 |  |
-| ![I Expect You To Die](https://cdn.akamai.steamstatic.com/steam/apps/587430/header.jpg?t=1698699739) | I Expect You To Die | Adventure | 2 |  |
-| ![Job Simulator](https://cdn.akamai.steamstatic.com/steam/apps/448280/header.jpg?t=1597260705) | Job Simulator | Simulation | 2 |  |
-| ![Killing Floor](https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg?t=1697726402) | Killing Floor | Action | 2 |  |
-| ![LEGO® Batman™: The Videogame](https://cdn.akamai.steamstatic.com/steam/apps/21000/header.jpg?t=1681923978) | LEGO® Batman™: The Videogame | Action, Adventure | 2 |  |
-| ![McPixel](https://cdn.akamai.steamstatic.com/steam/apps/220860/header.jpg?t=1656331878) | McPixel | Action, Adventure, Indie | 2 |  |
-| ![Orwell: Keeping an Eye On You](https://cdn.akamai.steamstatic.com/steam/apps/491950/header.jpg?t=1694074337) | Orwell: Keeping an Eye On You | Adventure, Indie, Simulation | 2 |  |
-| ![Peggle™ Nights](https://cdn.akamai.steamstatic.com/steam/apps/3540/header.jpg?t=1615208369) | Peggle™ Nights | Casual | 2 |  |
-| ![Serious Sam VR: The Last Hope](https://cdn.akamai.steamstatic.com/steam/apps/465240/header.jpg?t=1569318967) | Serious Sam VR: The Last Hope | Action, Indie | 2 |  |
-| ![SHENZHEN I/O](https://cdn.akamai.steamstatic.com/steam/apps/504210/header.jpg?t=1667071700) | SHENZHEN I/O | Indie, Simulation | 2 |  |
-| ![STAR WARS™: Squadrons](https://images.gog.com/f884a994c4b2cc7d74660d50d09509a656427ab4abb59503564634d3cf4bf0b7_glx_square_icon_v2.webp?namespace=gamesdb) | STAR WARS™: Squadrons | Shooter, Simulator | 2 |  |
-| ![SUPERHOT VR](https://cdn.akamai.steamstatic.com/steam/apps/617830/header.jpg?t=1686050022) | SUPERHOT VR | Action, Indie | 2 |  |
-| ![The Witcher 2: Assassins of Kings Enhanced Edition](https://cdn.akamai.steamstatic.com/steam/apps/20920/header.jpg?t=1700481810) | The Witcher 2: Assassins of Kings Enhanced Edition | RPG | 2 |  |
-| ![Universe Sandbox](https://cdn.akamai.steamstatic.com/steam/apps/230290/header.jpg?t=1705004897) | Universe Sandbox | Casual, Indie, Simulation, Early Access | 2 |  |
-| ![>observer_](https://cdn.akamai.steamstatic.com/steam/apps/514900/header.jpg?t=1684279051) | >observer_ | Adventure, Indie | 1 |  |
 | ![1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)](https://cdn.akamai.steamstatic.com/steam/apps/15540/header.jpg?t=1620423457) | 1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby) | Action, Indie, Early Access | 1 |  |
 | ![7 Days to Die](https://cdn.akamai.steamstatic.com/steam/apps/251570/header.jpg?t=1702072288) | 7 Days to Die | Action, Adventure, Indie, RPG, Simulation, Strategy, Early Access | 1 |  |
 | ![80 Days](https://cdn.akamai.steamstatic.com/steam/apps/381780/header.jpg?t=1667296454) | 80 Days | Adventure, Indie, Strategy | 1 |  |
