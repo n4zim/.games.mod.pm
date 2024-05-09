@@ -1,12 +1,12 @@
 # Games Library
 
 ## Stats
-- Total games: 821
-- Days played: 158
+- Total games: 825
+- Days played: 159
 - Total most liked games: 37
-- Total unplayed games: 56%
-- Total unrated games: 67%
-- Genres: Indie (422), Adventure (343), Action (321), Strategy (194), RPG (165), Casual (106), Simulation (93), Simulator (54), Shooter (46), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (20), Arcade (19), Tactical (16), Hack and slash/Beat 'em up (13), Early Access (12), Turn-based strategy (TBS) (10), Point-and-click (10), Fighting (9), RTS (9), Card & Board Game (7), Pinball (3), Quiz/Trivia (2),  (2), Music (2), Gore (1), Visual Novel (1)
+- Total unplayed games: 55%
+- Total unrated games: 68%
+- Genres: Indie (424), Adventure (347), Action (321), Strategy (196), RPG (167), Casual (108), Simulation (95), Simulator (54), Shooter (46), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (20), Arcade (19), Tactical (16), Hack and slash/Beat 'em up (13), Early Access (12), Turn-based strategy (TBS) (10), Point-and-click (10), Fighting (9), RTS (9), Card & Board Game (7), Pinball (3), Quiz/Trivia (2),  (2), Music (2), Gore (1), Visual Novel (1)
 ## List
 | Image | Name | Genres | Hours Played | Affinity |
 | --- | --- | --- | --- | --- |
@@ -61,7 +61,7 @@
 | ![Life is Strange](https://cdn.akamai.steamstatic.com/steam/apps/319630/header.jpg?t=1662395426) | Life is Strange | Action, Adventure | 24 | ⭐⭐⭐⭐ |
 | ![XCOM® 2](https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg?t=1646157374) | XCOM® 2 | Strategy | 24 | ⭐⭐⭐⭐ |
 | ![Black Mesa](https://cdn.akamai.steamstatic.com/steam/apps/362890/header.jpg?t=1698563440) | Black Mesa | Action, Adventure, Indie | 21 | ⭐⭐⭐⭐ |
-| ![Pistol Whip](https://cdn.akamai.steamstatic.com/steam/apps/1079800/header.jpg?t=1702494201) | Pistol Whip | Action, Indie | 18 | ⭐⭐⭐⭐ |
+| ![Pistol Whip](https://cdn.akamai.steamstatic.com/steam/apps/1079800/header.jpg?t=1702494201) | Pistol Whip | Action, Indie | 19 | ⭐⭐⭐⭐ |
 | ![The Talos Principle](https://cdn.akamai.steamstatic.com/steam/apps/257510/header.jpg?t=1704495040) | The Talos Principle | Action, Adventure, Indie | 18 | ⭐⭐⭐⭐ |
 | ![Beat Saber](https://cdn.akamai.steamstatic.com/steam/apps/620980/header.jpg?t=1701968029) | Beat Saber | Indie | 17 | ⭐⭐⭐⭐ |
 | ![Burnout Paradise: The Ultimate Box](https://cdn.akamai.steamstatic.com/steam/apps/24740/header.jpg?t=1591283062) | Burnout Paradise: The Ultimate Box | Racing | 16 | ⭐⭐⭐⭐ |
@@ -170,6 +170,7 @@
 | ![Counter-Strike 2](https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1698860631) | Counter-Strike 2 | Action, Free to Play | 7 | ⭐⭐⭐ |
 | ![Human Resource Machine](https://cdn.akamai.steamstatic.com/steam/apps/375820/header.jpg?t=1692721273) | Human Resource Machine | Casual, Indie, Simulation | 7 | ⭐⭐⭐ |
 | ![Overcooked](https://cdn.akamai.steamstatic.com/steam/apps/448510/header.jpg?t=1705075664) | Overcooked | Action, Casual, Indie, Simulation | 7 | ⭐⭐⭐ |
+| ![Project Zomboid](https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg?t=1691508011) | Project Zomboid | Indie, RPG, Simulation, Early Access | 7 | ⭐⭐⭐ |
 | ![Peggle Deluxe](https://cdn.akamai.steamstatic.com/steam/apps/3480/header.jpg?t=1682108520) | Peggle Deluxe | Casual | 6 | ⭐⭐⭐ |
 | ![Serious Sam 3: BFE](https://cdn.akamai.steamstatic.com/steam/apps/41070/header.jpg?t=1701713123) | Serious Sam 3: BFE | Action, Indie | 6 | ⭐⭐⭐ |
 | ![The Jackbox Party Pack 3](https://cdn.akamai.steamstatic.com/steam/apps/434170/header.jpg?t=1667412673) | The Jackbox Party Pack 3 | Casual, Indie, Strategy | 6 | ⭐⭐⭐ |
@@ -182,7 +183,6 @@
 | ![Genital Jousting](https://cdn.akamai.steamstatic.com/steam/apps/469820/header.jpg?t=1660321242) | Genital Jousting | Action, Indie | 5 | ⭐⭐⭐ |
 | ![Magicka 2](https://cdn.akamai.steamstatic.com/steam/apps/238370/header.jpg?t=1681240322) | Magicka 2 | Action, Adventure | 5 | ⭐⭐⭐ |
 | ![Octodad: Dadliest Catch](https://cdn.akamai.steamstatic.com/steam/apps/224480/header.jpg?t=1694015218) | Octodad: Dadliest Catch | Action, Adventure, Indie | 5 | ⭐⭐⭐ |
-| ![Project Zomboid](https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg?t=1691508011) | Project Zomboid | Indie, RPG, Simulation, Early Access | 5 | ⭐⭐⭐ |
 | ![Blur](https://cdn.akamai.steamstatic.com/steam/apps/42640/header.jpg?t=1447353061) | Blur | Racing | 4 | ⭐⭐⭐ |
 | ![Borderlands Game of the Year](https://cdn.akamai.steamstatic.com/steam/apps/8980/header.jpg?t=1692308968) | Borderlands Game of the Year | Action, RPG | 4 | ⭐⭐⭐ |
 | ![Call of Duty® 4: Modern Warfare® (2007)](https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg?t=1678298739) | Call of Duty® 4: Modern Warfare® (2007) | Action | 4 | ⭐⭐⭐ |
@@ -195,6 +195,7 @@
 | ![7 Billion Humans](https://cdn.akamai.steamstatic.com/steam/apps/792100/header.jpg?t=1667105092) | 7 Billion Humans | Indie, Simulation | 3 | ⭐⭐⭐ |
 | ![Auditorium](https://cdn.akamai.steamstatic.com/steam/apps/205870/header.jpg?t=1447355275) | Auditorium | Indie, Casual | 3 | ⭐⭐⭐ |
 | ![Battlefield 3™](https://images.gog.com/63823a2490fdddec427d078339e3aa2f80af5484b1a54e7f3c262951bbbd35b8_glx_square_icon_v2.webp?namespace=gamesdb) | Battlefield 3™ | Shooter | 3 | ⭐⭐⭐ |
+| ![ENDLESS™ Space 2](https://cdn.akamai.steamstatic.com/steam/apps/392110/header.jpg?t=1705417025) | ENDLESS™ Space 2 | Strategy | 3 | ⭐⭐⭐ |
 | ![Far Cry®](https://cdn.akamai.steamstatic.com/steam/apps/13520/header.jpg?t=1602602361) | Far Cry® | Action | 3 | ⭐⭐⭐ |
 | ![Freeways](https://cdn.akamai.steamstatic.com/steam/apps/780210/header.jpg?t=1572994131) | Freeways | Indie, Simulation | 3 | ⭐⭐⭐ |
 | ![Frontlines™: Fuel of War™](https://cdn.akamai.steamstatic.com/steam/apps/9460/header.jpg?t=1562845515) | Frontlines™: Fuel of War™ | Action | 3 | ⭐⭐⭐ |
@@ -217,7 +218,6 @@
 | ![Crazy Machines 3](https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1668632247) | Crazy Machines 3 | Simulation, Strategy | 2 | ⭐⭐⭐ |
 | ![Dead Rising 4](https://cdn.akamai.steamstatic.com/steam/apps/543460/header.jpg?t=1644282464) | Dead Rising 4 | Action | 2 | ⭐⭐⭐ |
 | ![Draw a Stickman: EPIC 2](https://cdn.akamai.steamstatic.com/steam/apps/403180/header.jpg?t=1588968640) | Draw a Stickman: EPIC 2 | Adventure, Casual, Indie | 2 | ⭐⭐⭐ |
-| ![ENDLESS™ Space 2](https://cdn.akamai.steamstatic.com/steam/apps/392110/header.jpg?t=1705417025) | ENDLESS™ Space 2 | Strategy | 2 | ⭐⭐⭐ |
 | ![Eufloria](https://cdn.akamai.steamstatic.com/steam/apps/41210/header.jpg?t=1447351757) | Eufloria | Indie, Strategy | 2 | ⭐⭐⭐ |
 | ![Fallout 4 VR](https://cdn.akamai.steamstatic.com/steam/apps/611660/header.jpg?t=1607445202) | Fallout 4 VR | RPG | 2 | ⭐⭐⭐ |
 | ![Grim Fandango Remastered](https://cdn.akamai.steamstatic.com/steam/apps/316790/header.jpg?t=1677883403) | Grim Fandango Remastered | Adventure | 2 | ⭐⭐⭐ |
@@ -278,7 +278,11 @@
 | ![PlanetSide 2](https://cdn.akamai.steamstatic.com/steam/apps/218230/header.jpg?t=1700252005) | PlanetSide 2 | Action, Massively Multiplayer, Free to Play | 1 | ⭐⭐ |
 | ![Ricochet](https://cdn.akamai.steamstatic.com/steam/apps/60/header.jpg?t=1599518374) | Ricochet | Action | 1 | ⭐⭐ |
 | ![Sid Meier's Civilization VI](https://images.gog.com/18d95bbd1690461bd3820e0064a23db72dce383a4fcb1cbc2c049913bc0a9f58_glx_square_icon_v2.webp?namespace=gamesdb) | Sid Meier's Civilization VI | Simulator, Strategy | 1 | ⭐⭐ |
+| ![The Expanse: A Telltale Series](https://cdn.akamai.steamstatic.com/steam/apps/1708010/header.jpg?t=1700668087) | The Expanse: A Telltale Series | Adventure, RPG | 6 |  |
+| ![Twin Mirror](https://cdn.akamai.steamstatic.com/steam/apps/1552810/header.jpg?t=1711032785) | Twin Mirror | Adventure | 6 |  |
+| ![60 Seconds! Reatomized](https://cdn.akamai.steamstatic.com/steam/apps/1012880/header.jpg?t=1684147568) | 60 Seconds! Reatomized | Adventure, Casual, Indie, Simulation, Strategy | 3 |  |
 | ![1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)](https://cdn.akamai.steamstatic.com/steam/apps/15540/header.jpg?t=1620423457) | 1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby) | Action, Indie, Early Access | 1 |  |
+| ![60 Parsecs!](https://cdn.akamai.steamstatic.com/steam/apps/646270/header.jpg?t=1699486971) | 60 Parsecs! | Adventure, Casual, Indie, RPG, Simulation, Strategy | 1 |  |
 | ![7 Days to Die](https://cdn.akamai.steamstatic.com/steam/apps/251570/header.jpg?t=1702072288) | 7 Days to Die | Action, Adventure, Indie, RPG, Simulation, Strategy, Early Access | 1 |  |
 | ![80 Days](https://cdn.akamai.steamstatic.com/steam/apps/381780/header.jpg?t=1667296454) | 80 Days | Adventure, Indie, Strategy | 1 |  |
 | ![A Fistful of Gun](https://cdn.akamai.steamstatic.com/steam/apps/229810/header.jpg?t=1568671190) | A Fistful of Gun | Action, Indie | 1 |  |

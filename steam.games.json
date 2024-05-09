@@ -4451,6 +4451,18 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg?t=1685702171"
   },
+  "646270": {
+    "name": "60 Parsecs!",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/646270/header.jpg?t=1699486971"
+  },
   "653530": {
     "name": "Return of the Obra Dinn",
     "genres": [
@@ -4864,6 +4876,17 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/996580/header.jpg?t=1588789018"
   },
+  "1012880": {
+    "name": "60 Seconds! Reatomized",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1012880/header.jpg?t=1684147568"
+  },
   "1016920": {
     "name": "Unrailed!",
     "genres": [
@@ -5108,6 +5131,13 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/header.jpg?t=1673492134"
   },
+  "1552810": {
+    "name": "Twin Mirror",
+    "genres": [
+      "Adventure"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1552810/header.jpg?t=1711032785"
+  },
   "1577120": {
     "name": "The Quarry",
     "genres": [
@@ -5160,6 +5190,14 @@
       "Indie"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703340/header.jpg?t=1683922822"
+  },
+  "1708010": {
+    "name": "The Expanse: A Telltale Series",
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708010/header.jpg?t=1700668087"
   },
   "1712840": {
     "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
