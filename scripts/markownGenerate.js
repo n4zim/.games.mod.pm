@@ -5,33 +5,36 @@ for(const game of require("../steam.owned.json").response.games) {
   const gameData = require("../steam.games.json")[game.appid]
   if(!gameData) continue
 
-  const gameName = require("../renames.json")[gameData.name] || gameData.name
+  const gameNameRename = require("../renames.json")[gameData.name]
+  const gameName = gameNameRename || gameData.name
 
   const found = output.find(({ name }) => name === gameName)
   if(found) {
     found.hoursPlayed += Math.ceil(game.playtime_forever / 60)
-    continue
+    if(!gameNameRename) found.image = gameData.image
+  } else {
+    const current = {
+      name: gameName,
+      image: gameData.image,
+      genres: gameData.genres.join(", "),
+    }
+    if(game.playtime_forever !== 0) {
+      current.hoursPlayed = Math.ceil(game.playtime_forever / 60)
+    }
+    current.affinity = require("../affinity.json")[current.name]
+    output.push(current)
   }
-
-  const current = {
-    name: gameName,
-    image: gameData.image,
-    genres: gameData.genres.join(", "),
-  }
-  if(game.playtime_forever !== 0) {
-    current.hoursPlayed = Math.ceil(game.playtime_forever / 60)
-  }
-  current.affinity = require("../affinity.json")[current.name]
-  output.push(current)
 }
 
 for(const game of require("../gog.games.json")) {
-  const gameName = require("../renames.json")[game.name] || game.name
+  const gameNameRename = require("../renames.json")[game.name]
+  const gameName = gameNameRename || game.name
   const found = output.find(({ name }) => name === gameName)
   if(found) {
     if(game.gameMins) {
       found.hoursPlayed = Math.ceil((game.gameMins / 60) + (found.hoursPlayed || 0))
     }
+    //if(!gameNameRename) found.image = game.image
   } else {
     output.push({
       name: gameName,
@@ -49,6 +52,7 @@ output = output
   .filter(({ name }) => require("../ignored.json").indexOf(name) === -1)
   .map(game => {
     for(let genre of game.genres.split(", ")) {
+      if(!genre) continue
       if(genre === "Role-playing (RPG)") {
         genre = "RPG"
       } else if (genre === "Sport") {

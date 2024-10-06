@@ -282,6 +282,13 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/4570/header.jpg?t=1622581511"
   },
+  "4580": {
+    "name": "Warhammer® 40,000: Dawn of War® - Dark Crusade",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580/header.jpg?t=1726775222"
+  },
   "4920": {
     "name": "Natural Selection 2",
     "genres": [
@@ -377,6 +384,13 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/8980/header.jpg?t=1692308968"
   },
+  "9310": {
+    "name": "Warhammer® 40,000: Dawn of War® – Winter Assault",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9310/header.jpg?t=1726775204"
+  },
   "9340": {
     "name": "Company of Heroes: Opposing Fronts",
     "genres": [
@@ -384,6 +398,13 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/9340/header.jpg?t=1669384458"
+  },
+  "9450": {
+    "name": "Warhammer® 40,000: Dawn of War® - Soulstorm",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9450/header.jpg?t=1726775179"
   },
   "9460": {
     "name": "Frontlines™: Fuel of War™",
@@ -1261,6 +1282,13 @@
       "Action"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/55230/header.jpg?t=1699436916"
+  },
+  "56400": {
+    "name": "Warhammer 40,000: Dawn of War II: Retribution",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/56437/header.jpg?t=1726774591"
   },
   "57300": {
     "name": "Amnesia: The Dark Descent",
@@ -2722,6 +2750,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/282140/header.jpg?t=1685698900"
   },
+  "282800": {
+    "name": "100% Orange Juice",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/header.jpg?t=1726920841"
+  },
   "285160": {
     "name": "LEGO® The Hobbit™",
     "genres": [
@@ -2784,6 +2820,14 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/287980/header.jpg?t=1689886905"
+  },
+  "289130": {
+    "name": "ENDLESS™ Legend",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/header.jpg?t=1728045983"
   },
   "289690": {
     "name": "LARA CROFT AND THE TEMPLE OF OSIRIS™",
@@ -3401,6 +3445,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/373480/header.jpg?t=1669128869"
   },
+  "373600": {
+    "name": "Weapon of Choice DX",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373600/header.jpg?t=1726761132"
+  },
   "374900": {
     "name": "Agatha Christie - The ABC Murders",
     "genres": [
@@ -3807,6 +3859,15 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/438100/header.jpg?t=1693940129"
   },
+  "442070": {
+    "name": "Drawful 2",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1725046119"
+  },
   "443910": {
     "name": "TGV Voyages Train Simulator",
     "genres": [
@@ -3855,6 +3916,14 @@
       "Free to Play"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/450390/header.jpg?t=1677266902"
+  },
+  "457140": {
+    "name": "Oxygen Not Included",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1721328489"
   },
   "462680": {
     "name": "BalanCity",
@@ -3985,6 +4054,25 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/476600/header.jpg?t=1646764749"
   },
+  "489520": {
+    "name": "Minion Masters",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489520/header_alt_assets_23.jpg?t=1727183307"
+  },
+  "489630": {
+    "name": "Warhammer 40,000: Gladius - Relics of War",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489630/header.jpg?t=1726824500"
+  },
   "489830": {
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "genres": [
@@ -4000,6 +4088,17 @@
       "Simulation"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/491950/header.jpg?t=1694074337"
+  },
+  "493340": {
+    "name": "Planet Coaster",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1725377481"
   },
   "493540": {
     "name": "Figment",
@@ -4120,6 +4219,16 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/523210/header.jpg?t=1623659932"
   },
+  "526870": {
+    "name": "Satisfactory",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header_alt_assets_2.jpg?t=1727871064"
+  },
   "527700": {
     "name": "Containment Initiative",
     "genres": [
@@ -4239,6 +4348,16 @@
       "Indie"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg?t=1705591195"
+  },
+  "552990": {
+    "name": "World of Warships",
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg?t=1727445437"
   },
   "554800": {
     "name": "Masky",
@@ -4450,6 +4569,13 @@
       "RPG"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg?t=1685702171"
+  },
+  "644930": {
+    "name": "They Are Billions",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876"
   },
   "646270": {
     "name": "60 Parsecs!",
@@ -4729,6 +4855,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/826600/header.jpg?t=1703749187"
   },
+  "835960": {
+    "name": "The Talos Principle 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg?t=1725101921"
+  },
   "845070": {
     "name": "The Awesome Adventures of Captain Spirit",
     "genres": [
@@ -4987,6 +5121,15 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1085660/header.jpg?t=1704743209"
   },
+  "1086940": {
+    "name": "Baldur's Gate 3",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1725654125"
+  },
   "1091500": {
     "name": "Cyberpunk 2077",
     "genres": [
@@ -5002,6 +5145,16 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1104330/header.jpg?t=1633554617"
+  },
+  "1127500": {
+    "name": "Mini Motorways",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127500/header.jpg?t=1667780984"
   },
   "1140630": {
     "name": "Red Wings: Aces of the Sky",
@@ -5070,6 +5223,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1705600873"
   },
+  "1243850": {
+    "name": "This Bed We Made",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243850/header.jpg?t=1715700544"
+  },
   "1284210": {
     "name": "Guild Wars 2",
     "genres": [
@@ -5098,6 +5259,17 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1341290/header.jpg?t=1700228483"
   },
+  "1428100": {
+    "name": "Instruments of Destruction",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428100/header.jpg?t=1717424512"
+  },
   "1449560": {
     "name": "Metro Exodus",
     "genres": [
@@ -5113,6 +5285,15 @@
       "Indie"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466640/header.jpg?t=1704728210"
+  },
+  "1507190": {
+    "name": "Machinika: Museum",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1507190/header.jpg?t=1722526800"
   },
   "1511460": {
     "name": "InfraSpace",
@@ -5173,6 +5354,15 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649080/header_alt_assets_3.jpg?t=1710439767"
+  },
+  "1649950": {
+    "name": "News Tower",
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/header_alt_assets_1.jpg?t=1726564563"
   },
   "1677770": {
     "name": "The Case of the Golden Idol",
@@ -5256,6 +5446,17 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1931770/header.jpg?t=1705488810"
   },
+  "2162800": {
+    "name": "shapez 2",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/header_alt_assets_5.jpg?t=1727847374"
+  },
   "2225070": {
     "name": "Trackmania",
     "genres": [
@@ -5277,5 +5478,22 @@
       "RPG"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362420/header.jpg?t=1684251878"
+  },
+  "2828500": {
+    "name": "The Jackbox Megapicker",
+    "genres": [
+      "Free To Play",
+      "Utilities"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828500/header.jpg?t=1727288083"
+  },
+  "3028500": {
+    "name": "Cakey's Twisted Bakery",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028500/header.jpg?t=1720351714"
   }
 }

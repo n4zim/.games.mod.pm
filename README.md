@@ -4,12 +4,12 @@
 - [Played](#played)
 - [Unplayed](#unplayed)
 ## Stats
-- Total games: 825
-- Days played: 159
+- Total games: 848
+- Days played: 168
 - Total most liked games: 37
 - Total unplayed games: 55%
-- Total unrated games: 68%
-- Genres: Indie (424), Adventure (347), Action (321), Strategy (196), RPG (167), Casual (108), Simulation (95), Simulator (54), Shooter (46), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (20), Arcade (19), Tactical (16), Hack and slash/Beat 'em up (13), Early Access (12), Turn-based strategy (TBS) (10), Point-and-click (10), Fighting (9), RTS (9), Card & Board Game (7), Pinball (3), Quiz/Trivia (2),  (2), Music (2), Gore (1), Visual Novel (1)
+- Total unrated games: 67%
+- Genres: Indie (436), Adventure (355), Action (328), Strategy (212), RPG (170), Casual (114), Simulation (103), Simulator (53), Shooter (45), Puzzle (39), Free to Play (33), Racing (27), Platform (27), Sports (23), Massively Multiplayer (21), Arcade (19), Tactical (15), Early Access (14), Hack and slash/Beat 'em up (13), Turn-based strategy (TBS) (10), Point-and-click (10), Fighting (9), RTS (8), Card & Board Game (7), Free To Play (3), Pinball (3), Quiz/Trivia (2), Music (2), Gore (1), Utilities (1), Visual Novel (1)
 ## Played
 | Image | Name | Genres | Hours Played | Affinity |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 | ![The Elder Scrolls V: Skyrim](https://cdn.akamai.steamstatic.com/steam/apps/72850/header.jpg?t=1647357402) | The Elder Scrolls V: Skyrim | RPG | 57 | ⭐⭐⭐⭐⭐ |
 | ![Fallout: New Vegas](https://cdn.akamai.steamstatic.com/steam/apps/22380/header.jpg?t=1665072891) | Fallout: New Vegas | Action, RPG | 48 | ⭐⭐⭐⭐⭐ |
 | ![Mass Effect 2](https://cdn.akamai.steamstatic.com/steam/apps/24980/header.jpg?t=1684169109) | Mass Effect 2 | RPG | 48 | ⭐⭐⭐⭐⭐ |
-| ![Outer Wilds](https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg?t=1701451524) | Outer Wilds | Action, Adventure | 45 | ⭐⭐⭐⭐⭐ |
+| ![Outer Wilds](https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg?t=1701451524) | Outer Wilds | Action, Adventure | 48 | ⭐⭐⭐⭐⭐ |
 | ![Subnautica](https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg?t=1700522118) | Subnautica | Adventure, Indie | 43 | ⭐⭐⭐⭐⭐ |
 | ![Mass Effect™ 3](https://images.gog.com/acc4854d9d05aa741bbe18b2126934a378b16eb818506eec2d9d6ad554fa30ba_glx_square_icon_v2.webp?namespace=gamesdb) | Mass Effect™ 3 | Adventure, Role-playing (RPG), Shooter | 37 | ⭐⭐⭐⭐⭐ |
 | ![BONEWORKS](https://cdn.akamai.steamstatic.com/steam/apps/823500/header.jpg?t=1581381377) | BONEWORKS | Action, Adventure, Indie, Simulation | 35 | ⭐⭐⭐⭐⭐ |
@@ -53,8 +53,10 @@
 | ![Tabletop Simulator](https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg?t=1620412025) | Tabletop Simulator | Casual, Indie, RPG, Simulation, Strategy | 103 | ⭐⭐⭐⭐ |
 | ![Garry's Mod](https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg?t=1698777053) | Garry's Mod | Casual, Indie, Simulation | 79 | ⭐⭐⭐⭐ |
 | ![Grand Theft Auto V](https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1706131787) | Grand Theft Auto V | Action, Adventure | 64 | ⭐⭐⭐⭐ |
+| ![ASTRONEER](https://cdn.akamai.steamstatic.com/steam/apps/361420/header.jpg?t=1701658983) | ASTRONEER | Adventure, Indie | 57 | ⭐⭐⭐⭐ |
+| ![They Are Billions](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876) | They Are Billions | Strategy | 56 | ⭐⭐⭐⭐ |
 | ![Starfield](https://cdn.akamai.steamstatic.com/steam/apps/1716740/header.jpg?t=1704299959) | Starfield | RPG | 54 | ⭐⭐⭐⭐ |
-| ![ASTRONEER](https://cdn.akamai.steamstatic.com/steam/apps/361420/header.jpg?t=1701658983) | ASTRONEER | Adventure, Indie | 53 | ⭐⭐⭐⭐ |
+| ![Oxygen Not Included](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1721328489) | Oxygen Not Included | Indie, Simulation | 52 | ⭐⭐⭐⭐ |
 | ![Cyberpunk 2077](https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg?t=1702306332) | Cyberpunk 2077 | RPG | 46 | ⭐⭐⭐⭐ |
 | ![Overlord II](https://cdn.akamai.steamstatic.com/steam/apps/12810/header.jpg?t=1656372034) | Overlord II | RPG | 42 | ⭐⭐⭐⭐ |
 | ![Plants vs. Zombies GOTY Edition](https://cdn.akamai.steamstatic.com/steam/apps/3590/header.jpg?t=1615390608) | Plants vs. Zombies GOTY Edition | Strategy | 35 | ⭐⭐⭐⭐ |
@@ -62,6 +64,7 @@
 | ![Surviving Mars](https://cdn.akamai.steamstatic.com/steam/apps/464920/header.jpg?t=1701955588) | Surviving Mars | Simulation, Strategy | 31 | ⭐⭐⭐⭐ |
 | ![Frostpunk](https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg?t=1701879213) | Frostpunk | Simulation, Strategy | 28 | ⭐⭐⭐⭐ |
 | ![Life is Strange](https://cdn.akamai.steamstatic.com/steam/apps/319630/header.jpg?t=1662395426) | Life is Strange | Action, Adventure | 24 | ⭐⭐⭐⭐ |
+| ![Mini Motorways](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127500/header.jpg?t=1667780984) | Mini Motorways | Casual, Indie, Simulation, Strategy | 24 | ⭐⭐⭐⭐ |
 | ![XCOM® 2](https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg?t=1646157374) | XCOM® 2 | Strategy | 24 | ⭐⭐⭐⭐ |
 | ![Black Mesa](https://cdn.akamai.steamstatic.com/steam/apps/362890/header.jpg?t=1698563440) | Black Mesa | Action, Adventure, Indie | 21 | ⭐⭐⭐⭐ |
 | ![Pistol Whip](https://cdn.akamai.steamstatic.com/steam/apps/1079800/header.jpg?t=1702494201) | Pistol Whip | Action, Indie | 19 | ⭐⭐⭐⭐ |
@@ -71,6 +74,7 @@
 | ![Half-Life 2](https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg?t=1699003213) | Half-Life 2 | Action | 15 | ⭐⭐⭐⭐ |
 | ![Chants of Sennaar](https://cdn.akamai.steamstatic.com/steam/apps/1931770/header.jpg?t=1705488810) | Chants of Sennaar | Adventure, Indie | 12 | ⭐⭐⭐⭐ |
 | ![Grand Theft Auto IV: The Complete Edition](https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg?t=1695131205) | Grand Theft Auto IV: The Complete Edition | Action, Adventure | 12 | ⭐⭐⭐⭐ |
+| ![Instruments of Destruction](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428100/header.jpg?t=1717424512) | Instruments of Destruction | Action, Casual, Indie, Simulation, Strategy | 12 | ⭐⭐⭐⭐ |
 | ![Metro 2033](https://cdn.akamai.steamstatic.com/steam/apps/43110/header.jpg?t=1616437108) | Metro 2033 | Action | 12 | ⭐⭐⭐⭐ |
 | ![The Case of the Golden Idol](https://cdn.akamai.steamstatic.com/steam/apps/1677770/header.jpg?t=1702916913) | The Case of the Golden Idol | Adventure, Indie | 12 | ⭐⭐⭐⭐ |
 | ![Beat Hazard](https://cdn.akamai.steamstatic.com/steam/apps/49600/header.jpg?t=1668763580) | Beat Hazard | Action, Casual, Indie | 11 | ⭐⭐⭐⭐ |
@@ -93,10 +97,12 @@
 | ![Use Your Words](https://cdn.akamai.steamstatic.com/steam/apps/521350/header.jpg?t=1581680767) | Use Your Words | Casual, Indie | 7 | ⭐⭐⭐⭐ |
 | ![Half-Life 2: Episode Two](https://cdn.akamai.steamstatic.com/steam/apps/420/header.jpg?t=1699003557) | Half-Life 2: Episode Two | Action | 6 | ⭐⭐⭐⭐ |
 | ![ISLANDERS](https://cdn.akamai.steamstatic.com/steam/apps/1046030/header.jpg?t=1688541994) | ISLANDERS | Casual, Indie, Strategy | 6 | ⭐⭐⭐⭐ |
+| ![News Tower](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649950/header_alt_assets_1.jpg?t=1726564563) | News Tower | Simulation, Strategy, Early Access | 6 | ⭐⭐⭐⭐ |
 | ![Return of the Obra Dinn](https://cdn.akamai.steamstatic.com/steam/apps/653530/header.jpg?t=1686697594) | Return of the Obra Dinn | Adventure, Indie | 6 | ⭐⭐⭐⭐ |
 | ![SLUDGE LIFE](https://cdn.akamai.steamstatic.com/steam/apps/1144770/header.jpg?t=1682756226) | SLUDGE LIFE | Adventure, Indie | 6 | ⭐⭐⭐⭐ |
 | ![SUPERHOT](https://cdn.akamai.steamstatic.com/steam/apps/322500/header.jpg?t=1705922015) | SUPERHOT | Action, Indie | 6 | ⭐⭐⭐⭐ |
 | ![The Silent Age](https://cdn.akamai.steamstatic.com/steam/apps/352520/header.jpg?t=1682531074) | The Silent Age | Adventure, Casual, Indie | 6 | ⭐⭐⭐⭐ |
+| ![Baldur's Gate 3](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1725654125) | Baldur's Gate 3 | Adventure, RPG, Strategy | 5 | ⭐⭐⭐⭐ |
 | ![Borderlands 2](https://cdn.akamai.steamstatic.com/steam/apps/49520/header.jpg?t=1693524237) | Borderlands 2 | Action, RPG | 5 | ⭐⭐⭐⭐ |
 | ![Firewatch](https://cdn.akamai.steamstatic.com/steam/apps/383870/header.jpg?t=1688484486) | Firewatch | Adventure, Indie | 5 | ⭐⭐⭐⭐ |
 | ![Half-Life 2: Episode One](https://cdn.akamai.steamstatic.com/steam/apps/380/header.jpg?t=1699003429) | Half-Life 2: Episode One | Action | 5 | ⭐⭐⭐⭐ |
@@ -145,11 +151,13 @@
 | ![Trackmania United Forever](https://cdn.akamai.steamstatic.com/steam/apps/7200/header.jpg?t=1680016410) | Trackmania United Forever | Racing | 35 | ⭐⭐⭐ |
 | ![Overlord™](https://cdn.akamai.steamstatic.com/steam/apps/11450/header.jpg?t=1656371873) | Overlord™ | RPG | 32 | ⭐⭐⭐ |
 | ![Mini Metro](https://cdn.akamai.steamstatic.com/steam/apps/287980/header.jpg?t=1689886905) | Mini Metro | Indie, Simulation, Strategy | 28 | ⭐⭐⭐ |
+| ![Satisfactory](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header_alt_assets_2.jpg?t=1727871064) | Satisfactory | Adventure, Indie, Simulation, Strategy | 25 | ⭐⭐⭐ |
+| ![Turmoil](https://cdn.akamai.steamstatic.com/steam/apps/361280/header.jpg?t=1676993558) | Turmoil | Indie, Simulation, Strategy | 25 | ⭐⭐⭐ |
 | ![Hogwarts Legacy](https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg?t=1699983982) | Hogwarts Legacy | Action, Adventure, RPG | 23 | ⭐⭐⭐ |
 | ![Counter-Strike: Source](https://cdn.akamai.steamstatic.com/steam/apps/240/header.jpg?t=1666823740) | Counter-Strike: Source | Action | 21 | ⭐⭐⭐ |
+| ![It Takes Two](https://images.gog.com/2d5985ab57e38d54a3c0e682ebd88e218d112a22c937d29aba82f692bb8ead22_glx_square_icon_v2.webp?namespace=gamesdb) | It Takes Two | Adventure, Platform, Puzzle | 20 | ⭐⭐⭐ |
 | ![Minecraft: Story Mode - A Telltale Games Series](https://cdn.akamai.steamstatic.com/steam/apps/376870/header.jpg?t=1556548617) | Minecraft: Story Mode - A Telltale Games Series | Adventure | 20 | ⭐⭐⭐ |
 | ![Terraria](https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860) | Terraria | Action, Adventure, Indie, RPG | 20 | ⭐⭐⭐ |
-| ![Turmoil](https://cdn.akamai.steamstatic.com/steam/apps/361280/header.jpg?t=1676993558) | Turmoil | Indie, Simulation, Strategy | 20 | ⭐⭐⭐ |
 | ![Screeps: World](https://cdn.akamai.steamstatic.com/steam/apps/464350/header.jpg?t=1702321038) | Screeps: World | Indie, Massively Multiplayer, Simulation, Strategy | 18 | ⭐⭐⭐ |
 | ![We Happy Few](https://cdn.akamai.steamstatic.com/steam/apps/320240/header.jpg?t=1648680905) | We Happy Few | Action, Adventure, Indie | 18 | ⭐⭐⭐ |
 | ![Counter-Strike](https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg?t=1666823513) | Counter-Strike | Action | 17 | ⭐⭐⭐ |
@@ -159,7 +167,6 @@
 | ![Stick Fight: The Game](https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg?t=1702991556) | Stick Fight: The Game | Action, Casual, Indie | 13 | ⭐⭐⭐ |
 | ![Serious Sam HD: The First Encounter](https://cdn.akamai.steamstatic.com/steam/apps/41000/header.jpg?t=1601674786) | Serious Sam HD: The First Encounter | Action, Indie | 12 | ⭐⭐⭐ |
 | ![Saints Row IV: Re-Elected](https://cdn.akamai.steamstatic.com/steam/apps/206420/header.jpg?t=1686927307) | Saints Row IV: Re-Elected | Action, Adventure | 11 | ⭐⭐⭐ |
-| ![It Takes Two](https://images.gog.com/2d5985ab57e38d54a3c0e682ebd88e218d112a22c937d29aba82f692bb8ead22_glx_square_icon_v2.webp?namespace=gamesdb) | It Takes Two | Adventure, Platform, Puzzle | 10 | ⭐⭐⭐ |
 | ![PAYDAY 2](https://cdn.akamai.steamstatic.com/steam/apps/218620/header.jpg?t=1706280342) | PAYDAY 2 | Action, RPG | 10 | ⭐⭐⭐ |
 | ![Sherlock Holmes: The Devil's Daughter](https://cdn.akamai.steamstatic.com/steam/apps/350640/header.jpg?t=1667551536) | Sherlock Holmes: The Devil's Daughter | Action, Adventure | 10 | ⭐⭐⭐ |
 | ![DOOM](https://cdn.akamai.steamstatic.com/steam/apps/379720/header.jpg?t=1692892793) | DOOM | Action | 9 | ⭐⭐⭐ |
@@ -177,6 +184,7 @@
 | ![Peggle Deluxe](https://cdn.akamai.steamstatic.com/steam/apps/3480/header.jpg?t=1682108520) | Peggle Deluxe | Casual | 6 | ⭐⭐⭐ |
 | ![Serious Sam 3: BFE](https://cdn.akamai.steamstatic.com/steam/apps/41070/header.jpg?t=1701713123) | Serious Sam 3: BFE | Action, Indie | 6 | ⭐⭐⭐ |
 | ![The Jackbox Party Pack 3](https://cdn.akamai.steamstatic.com/steam/apps/434170/header.jpg?t=1667412673) | The Jackbox Party Pack 3 | Casual, Indie, Strategy | 6 | ⭐⭐⭐ |
+| ![This Bed We Made](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243850/header.jpg?t=1715700544) | This Bed We Made | Adventure, Indie | 6 | ⭐⭐⭐ |
 | ![Trickster VR: Co-op Dungeon Crawler](https://cdn.akamai.steamstatic.com/steam/apps/512220/header.jpg?t=1623317847) | Trickster VR: Co-op Dungeon Crawler | Action, Adventure, Indie | 6 | ⭐⭐⭐ |
 | ![Unreal Tournament 3](https://cdn.akamai.steamstatic.com/steam/apps/13210/header.jpg?t=1685710371) | Unreal Tournament 3 | Action | 6 | ⭐⭐⭐ |
 | ![Warhammer 40,000: Dawn of War II](https://cdn.akamai.steamstatic.com/steam/apps/15620/header.jpg?t=1632305419) | Warhammer 40,000: Dawn of War II | Strategy | 6 | ⭐⭐⭐ |
@@ -186,6 +194,7 @@
 | ![Genital Jousting](https://cdn.akamai.steamstatic.com/steam/apps/469820/header.jpg?t=1660321242) | Genital Jousting | Action, Indie | 5 | ⭐⭐⭐ |
 | ![Magicka 2](https://cdn.akamai.steamstatic.com/steam/apps/238370/header.jpg?t=1681240322) | Magicka 2 | Action, Adventure | 5 | ⭐⭐⭐ |
 | ![Octodad: Dadliest Catch](https://cdn.akamai.steamstatic.com/steam/apps/224480/header.jpg?t=1694015218) | Octodad: Dadliest Catch | Action, Adventure, Indie | 5 | ⭐⭐⭐ |
+| ![shapez 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/header_alt_assets_5.jpg?t=1727847374) | shapez 2 | Casual, Indie, Simulation, Strategy, Early Access | 5 | ⭐⭐⭐ |
 | ![Blur](https://cdn.akamai.steamstatic.com/steam/apps/42640/header.jpg?t=1447353061) | Blur | Racing | 4 | ⭐⭐⭐ |
 | ![Borderlands Game of the Year](https://cdn.akamai.steamstatic.com/steam/apps/8980/header.jpg?t=1692308968) | Borderlands Game of the Year | Action, RPG | 4 | ⭐⭐⭐ |
 | ![Call of Duty® 4: Modern Warfare® (2007)](https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg?t=1678298739) | Call of Duty® 4: Modern Warfare® (2007) | Action | 4 | ⭐⭐⭐ |
@@ -395,6 +404,7 @@
 ## Unplayed
 | Image | Name | Genres |
 | --- | --- | --- |
+| ![100% Orange Juice](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282800/header.jpg?t=1726920841) | 100% Orange Juice | Indie, Strategy |
 | ![1993 Space Machine](https://cdn.akamai.steamstatic.com/steam/apps/373480/header.jpg?t=1669128869) | 1993 Space Machine | Action, Indie |
 | ![3 out of 10: Season Two](https://images.gog.com/2bd6f2bb8932ffbce60289942b99a68edc4bb8ec64568d33828f0a1210735bd3_glx_square_icon_v2.webp?namespace=gamesdb) | 3 out of 10: Season Two | Adventure |
 | ![A Blind Legend](https://cdn.akamai.steamstatic.com/steam/apps/437530/header.jpg?t=1592921076) | A Blind Legend | Action, Adventure, Indie |
@@ -437,6 +447,7 @@
 | ![Breathedge](https://images.gog.com/267992ec9bfbae142508d66ddd8fe41730af1573377242e83080f9bdc082ef48_glx_square_icon_v2.webp?namespace=gamesdb) | Breathedge | Adventure, Indie, Role-playing (RPG), Simulator |
 | ![Broken Sword 5 - the Serpent's Curse](https://cdn.akamai.steamstatic.com/steam/apps/262940/header.jpg?t=1685805015) | Broken Sword 5 - the Serpent's Curse | Adventure |
 | ![Brutal Legend](https://cdn.akamai.steamstatic.com/steam/apps/225260/header.jpg?t=1669237971) | Brutal Legend | Action, Adventure, Strategy |
+| ![Cakey's Twisted Bakery](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028500/header.jpg?t=1720351714) | Cakey's Twisted Bakery | Action, Adventure, Indie |
 | ![Call of Duty®: WWII](https://cdn.akamai.steamstatic.com/steam/apps/476600/header.jpg?t=1646764749) | Call of Duty®: WWII | Action |
 | ![Capcom Arcade Stadium](https://cdn.akamai.steamstatic.com/steam/apps/1515950/header.jpg?t=1673492134) | Capcom Arcade Stadium | Action, Free to Play |
 | ![Car Mechanic Simulator 2018](https://images.gog.com/3eec69dea83e56cf05e0285839ed3a512e05873e1c068e84245af3783c2dd514_glx_square_icon_v2.webp?namespace=gamesdb) | Car Mechanic Simulator 2018 | Racing, Simulator |
@@ -495,6 +506,7 @@
 | ![Divine Knockout](https://images.gog.com/1f51eb16e2a7437098ea92b56501603f112c724fe967c23e3883991a011fbf64_glx_square_icon_v2.webp?namespace=gamesdb) | Divine Knockout | Fighting, Platform |
 | ![Divinity II: Developer's Cut](https://cdn.akamai.steamstatic.com/steam/apps/219780/header.jpg?t=1568735670) | Divinity II: Developer's Cut | RPG |
 | ![Dragonsphere](https://images.gog.com/3870137e89407386f33fd4c136cc3e4d09dc60c900704220f40fb72baa01b577_glx_square_icon_v2.webp?namespace=gamesdb) | Dragonsphere | Adventure, Point-and-click, Puzzle, Quiz/Trivia |
+| ![Drawful 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1725046119) | Drawful 2 | Casual, Indie, Strategy |
 | ![Dungeon Defenders](https://cdn.akamai.steamstatic.com/steam/apps/65800/header.jpg?t=1688068226) | Dungeon Defenders | Action, Indie, RPG, Strategy |
 | ![Dungeon of the ENDLESS™](https://cdn.akamai.steamstatic.com/steam/apps/249050/header.jpg?t=1689949161) | Dungeon of the ENDLESS™ | Adventure, Indie, RPG, Strategy |
 | ![Dungeons 3](https://images.gog.com/c23e31832f061d095e3a3e493562c12375625e50f805d4bcd959c68f0784befe_glx_square_icon_v2.webp?namespace=gamesdb) | Dungeons 3 | Adventure, Simulator, Strategy |
@@ -507,6 +519,7 @@
 | ![Elven Legacy](https://cdn.akamai.steamstatic.com/steam/apps/25850/header.jpg?t=1681209351) | Elven Legacy | RPG, Strategy |
 | ![Empire Earth 3](https://images.gog.com/9fc74f8b2c9945ca70f565d2182e0fe20ce69cf673986eef39dea65644a4efb8_glx_square_icon_v2.webp?namespace=gamesdb) | Empire Earth 3 | Simulator, Strategy |
 | ![Encased](https://images.gog.com/34cbb5b33b3ef38bc161ee65c77612482989768d8f9e3bb132f61081099932b3_glx_square_icon_v2.webp?namespace=gamesdb) | Encased | Adventure, Indie, Role-playing (RPG), Strategy, Tactical |
+| ![ENDLESS™ Legend](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/header.jpg?t=1728045983) | ENDLESS™ Legend | RPG, Strategy |
 | ![ENDLESS™ Space - Definitive Edition](https://cdn.akamai.steamstatic.com/steam/apps/208140/header.jpg?t=1676896716) | ENDLESS™ Space - Definitive Edition | Strategy |
 | ![Entropy : Zero](https://cdn.akamai.steamstatic.com/steam/apps/714070/header.jpg?t=1575142660) | Entropy : Zero | Action, Free to Play |
 | ![Entropy : Zero 2](https://cdn.akamai.steamstatic.com/steam/apps/1583720/header.jpg?t=1685384279) | Entropy : Zero 2 | Action, Free to Play |
@@ -607,6 +620,7 @@
 | ![Loop Hero](https://images.gog.com/dc1f63ac806f9cd519266d5e76ccf042319a97f42df2e3d9974e578544594f61_glx_square_icon_v2.webp?namespace=gamesdb) | Loop Hero | Adventure, Card & Board Game, Indie, Role-playing (RPG), Strategy |
 | ![Lost Ark](https://cdn.akamai.steamstatic.com/steam/apps/1599340/header.jpg?t=1702454470) | Lost Ark | Action, Adventure, Massively Multiplayer, RPG, Free to Play |
 | ![Lure of the Temptress](https://images.gog.com/43fe4a10fc911d5be00844f91bab3ffa98fbebd58c205a9471b82c87eb8a679e_glx_square_icon_v2.webp?namespace=gamesdb) | Lure of the Temptress | Adventure, Point-and-click, Puzzle |
+| ![Machinika: Museum](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1507190/header.jpg?t=1722526800) | Machinika: Museum | Adventure, Casual, Indie |
 | ![Mad Max](https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg?t=1634068672) | Mad Max | Action, Adventure |
 | ![Mages of Mystralia](https://images.gog.com/5fc29675dd68f7ad5e51ceac83dbe176708933a007019741695fdfddcd35ef53_glx_square_icon_v2.webp?namespace=gamesdb) | Mages of Mystralia | Adventure, Indie |
 | ![Majesty 2](https://cdn.akamai.steamstatic.com/steam/apps/25980/header.jpg?t=1669909907) | Majesty 2 | Simulation, Strategy |
@@ -619,6 +633,7 @@
 | ![Metro Last Light Redux](https://images.gog.com/d1bca392cb9e83d537c68dc3f3ac464ae67e85aca0e9694aca29b04736b6199f_glx_square_icon_v2.webp?namespace=gamesdb) | Metro Last Light Redux | Role-playing (RPG), Shooter |
 | ![Metro: 2033 Redux](https://images.gog.com/cf395cec43f3cdc4594d9d096ebfdc7f56b9248d81654e89579a460491676616_glx_square_icon_v2.webp?namespace=gamesdb) | Metro: 2033 Redux | Adventure, Role-playing (RPG), Shooter |
 | ![Midnight Ghost Hunt](https://images.gog.com/6ab2e4b447eed8585abbed69682d5e7e143e2790bfe3277129c8f92f6bda6343_glx_square_icon_v2.webp?namespace=gamesdb) | Midnight Ghost Hunt | Indie |
+| ![Minion Masters](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489520/header_alt_assets_23.jpg?t=1727183307) | Minion Masters | Action, Adventure, Indie, RPG, Strategy, Free To Play |
 | ![Minit](https://images.gog.com/bbabac25f2b2d37668453eea00d99504e968c6785af932b5598095024898ea63_glx_square_icon_v2.webp?namespace=gamesdb) | Minit | Adventure, Indie, Puzzle, Role-playing (RPG) |
 | ![Moon Hunters](https://cdn.akamai.steamstatic.com/steam/apps/320040/header.jpg?t=1683220137) | Moon Hunters | Adventure, Indie, RPG |
 | ![Mordhau](https://images.gog.com/0d1d26ddc20bbad34fed27d278cd5702ef323879282e3080a83194386ae7fdf7_glx_square_icon_v2.webp?namespace=gamesdb) | Mordhau | Fighting, Hack and slash/Beat 'em up, Indie |
@@ -644,6 +659,7 @@
 | ![Pathway](https://images.gog.com/a7ca5d924ce3ce21c705f540c358677caf45014a845d224184d0ef7c3ad72424_glx_square_icon_v2.webp?namespace=gamesdb) | Pathway | Role-playing (RPG), Tactical |
 | ![Pinball FX](https://images.gog.com/c3a1be47075f612b92c5c1f9bdfcfd2fc2e844907c974f662e19a17e73cc48d8_glx_square_icon_v2.webp?namespace=gamesdb) | Pinball FX | Arcade, Simulator |
 | ![Pine](https://images.gog.com/5dd5c98b72fcbf083e1abdc5ea2ccd5f33cdc4d1859c42590ad9df48af4f381c_glx_square_icon_v2.webp?namespace=gamesdb) | Pine | Adventure, Indie, Role-playing (RPG), Simulator |
+| ![Planet Coaster](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1725377481) | Planet Coaster | Action, Adventure, Casual, Simulation, Strategy |
 | ![PlanetSide 2 - Test](https://cdn.akamai.steamstatic.com/steam/apps/1083500/header.jpg?t=1623778069) | PlanetSide 2 - Test | Action, Free to Play, Massively Multiplayer |
 | ![Please, Don't Touch Anything 3D](https://cdn.akamai.steamstatic.com/steam/apps/529590/header.jpg?t=1688662166) | Please, Don't Touch Anything 3D | Adventure, Casual, Indie |
 | ![Poker Club](https://images.gog.com/9331c6af8666042dfab70a89ea86562fc8f0b76c9ae0391cc4ce3a14def66be3_glx_square_icon_v2.webp?namespace=gamesdb) | Poker Club | Card & Board Game, Indie, Simulator, Sport, Strategy |
@@ -772,6 +788,7 @@
 | ![The Escapists 2](https://images.gog.com/1829b2c7586e7b5ea06d0e859b57bb8bedb4b137fb93ab5c522d5ba41bf49227_glx_square_icon_v2.webp?namespace=gamesdb) | The Escapists 2 | Adventure, Indie, Puzzle, Role-playing (RPG), Simulator, Strategy, Tactical |
 | ![The Fall](https://images.gog.com/c0c5b59d47337a37aacf4b5f3a34616c9686f35aeaa0ba45328313532b2c3a11_glx_square_icon_v2.webp?namespace=gamesdb) | The Fall | Adventure, Indie, Platform, Point-and-click, Puzzle, Shooter |
 | ![The Flame in the Flood](https://cdn.akamai.steamstatic.com/steam/apps/318600/header.jpg?t=1634657363) | The Flame in the Flood | Action, Adventure, Indie |
+| ![The Jackbox Megapicker](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828500/header.jpg?t=1727288083) | The Jackbox Megapicker | Free To Play, Utilities |
 | ![The Kings' Crusade](https://cdn.akamai.steamstatic.com/steam/apps/42920/header.jpg?t=1447353607) | The Kings' Crusade | Strategy |
 | ![The Lion's Song](https://images.gog.com/b7b96562565b189ada58f7981117f6dd1f41640df03cf7f939811185bf6649e0_glx_square_icon_v2.webp?namespace=gamesdb) | The Lion's Song | Adventure, Indie, Point-and-click |
 | ![The Long Dark](https://images.gog.com/f8afe1c12019c5f21d1ab9b2c391d823ad16cef130bfa778d9808dcb15e716b1_glx_square_icon_v2.webp?namespace=gamesdb) | The Long Dark | Adventure, Indie, Shooter, Simulator, Strategy |
@@ -779,6 +796,7 @@
 | ![The Price of Freedom](https://cdn.akamai.steamstatic.com/steam/apps/561080/header.jpg?t=1563316537) | The Price of Freedom | Adventure, Indie |
 | ![The Red Solstice](https://cdn.akamai.steamstatic.com/steam/apps/265590/header.jpg?t=1706400270) | The Red Solstice | Strategy |
 | ![The Red Stare](https://cdn.akamai.steamstatic.com/steam/apps/625470/header.jpg?t=1572544837) | The Red Stare | Action, Free to Play, Indie |
+| ![The Talos Principle 2](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg?t=1725101921) | The Talos Principle 2 | Action, Adventure |
 | ![The Talos Principle VR](https://cdn.akamai.steamstatic.com/steam/apps/552440/header.jpg?t=1569317751) | The Talos Principle VR | Action, Adventure, Indie |
 | ![The Uncertain: Last Quiet Day](https://cdn.akamai.steamstatic.com/steam/apps/406970/header.jpg?t=1614781062) | The Uncertain: Last Quiet Day | Adventure, Indie |
 | ![The Vanishing of Ethan Carter](https://images.gog.com/659292536b3557ea22a7612045099f42ae42bda8f0cec5c57d00934767fb608c_glx_square_icon_v2.webp?namespace=gamesdb) | The Vanishing of Ethan Carter | Adventure, Strategy |
@@ -821,18 +839,23 @@
 | ![Waking Mars](https://cdn.akamai.steamstatic.com/steam/apps/227200/header.jpg?t=1447357132) | Waking Mars | Action, Adventure, Indie |
 | ![War Thunder](https://cdn.akamai.steamstatic.com/steam/apps/236390/header.jpg?t=1706020414) | War Thunder | Action, Massively Multiplayer, Simulation, Free to Play |
 | ![Wargame: Red Dragon](https://images.gog.com/dc170bdbf84eae266c536e51c91badbc70490ca2df50efce0ad20ca17533de7b_glx_square_icon_v2.webp?namespace=gamesdb) | Wargame: Red Dragon | Indie, Real Time Strategy (RTS), Simulator, Strategy |
-| ![Warhammer 40,000: Gladius - Relics of War](https://images.gog.com/1ff1bbb70da794dbafbbdd1b5e30e107085a46260ebabac5e6335a8040e015f0_glx_square_icon_v2.webp?namespace=gamesdb) | Warhammer 40,000: Gladius - Relics of War | Strategy |
+| ![Warhammer 40,000: Dawn of War II: Retribution](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/56437/header.jpg?t=1726774591) | Warhammer 40,000: Dawn of War II: Retribution | Strategy |
+| ![Warhammer 40,000: Gladius - Relics of War](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489630/header.jpg?t=1726824500) | Warhammer 40,000: Gladius - Relics of War | Strategy |
 | ![Warhammer 40,000: Mechanicus](https://images.gog.com/ab2d48e1ab27a2ce64392a4667de7d2efe42b0bd3a74e34c15b058c28b982aca_glx_square_icon_v2.webp?namespace=gamesdb) | Warhammer 40,000: Mechanicus | Strategy, Tactical |
 | ![Warhammer Underworlds - Shadespire Edition](https://cdn.akamai.steamstatic.com/steam/apps/1022310/header.jpg?t=1689301558) | Warhammer Underworlds - Shadespire Edition | Casual, Strategy |
 | ![Warhammer: Vermintide 2](https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg?t=1705591195) | Warhammer: Vermintide 2 | Action, Indie |
+| ![Warhammer® 40,000: Dawn of War® - Dark Crusade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580/header.jpg?t=1726775222) | Warhammer® 40,000: Dawn of War® - Dark Crusade | Strategy |
+| ![Warhammer® 40,000: Dawn of War® - Soulstorm](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9450/header.jpg?t=1726775179) | Warhammer® 40,000: Dawn of War® - Soulstorm | Strategy |
+| ![Warhammer® 40,000: Dawn of War® – Winter Assault](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9310/header.jpg?t=1726775204) | Warhammer® 40,000: Dawn of War® – Winter Assault | Strategy |
 | ![Warpips](https://images.gog.com/6962aff9e641f3f76dafcaadc19e19f9db4f7b1a23b7ec9926e35593ff7ac439_glx_square_icon_v2.webp?namespace=gamesdb) | Warpips | Indie, Real Time Strategy (RTS), Strategy, Tactical |
 | ![WASTED](https://cdn.akamai.steamstatic.com/steam/apps/327510/header.jpg?t=1568862121) | WASTED | Action, Indie, RPG |
+| ![Weapon of Choice DX](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373600/header.jpg?t=1726761132) | Weapon of Choice DX | Action, Indie |
 | ![Wildcat Gun Machine](https://images.gog.com/965628186c77bd0bc87c5979114992a1d52b784e64c17968fe3145a9aa1c21a3_glx_square_icon_v2.webp?namespace=gamesdb) | Wildcat Gun Machine | Arcade, Indie, Real Time Strategy (RTS), Shooter |
 | ![Windbound](https://images.gog.com/0751e2961cd41283c64ccdd4e3f876a8a2b4ee3c46a0c8b819b0c130e70c22fd_glx_square_icon_v2.webp?namespace=gamesdb) | Windbound | Adventure, Indie, Role-playing (RPG) |
 | ![Wizard of Legend](https://cdn.akamai.steamstatic.com/steam/apps/445980/header.jpg?t=1706221402) | Wizard of Legend | Action, Adventure, Indie |
 | ![Wolfenstein: Enemy Territory](https://cdn.akamai.steamstatic.com/steam/apps/1873030/header.jpg?t=1666295006) | Wolfenstein: Enemy Territory | Action |
 | ![Wonder Boy The Dragons Trap](https://images.gog.com/056e9a04957aeaf47b03a1870f39199e9ff27220e9c708597a4e2b120daff7e4_glx_square_icon_v2.webp?namespace=gamesdb) | Wonder Boy The Dragons Trap | Adventure, Indie, Platform |
-| ![World of Warships](https://images.gog.com/1ed29c344de258ee89aa6bb07e9baf9022ca103534c7637effa57e2d1bb744cc_glx_square_icon_v2.webp?namespace=gamesdb) | World of Warships | Real Time Strategy (RTS), Shooter, Simulator, Tactical |
+| ![World of Warships](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/header.jpg?t=1727445437) | World of Warships | Action, Massively Multiplayer, Simulation, Free To Play |
 | ![X-COM: UFO Defense](https://cdn.akamai.steamstatic.com/steam/apps/7760/header.jpg?t=1571243544) | X-COM: UFO Defense | Strategy |
 | ![Yakuza 0](https://cdn.akamai.steamstatic.com/steam/apps/638970/header.jpg?t=1685702171) | Yakuza 0 | Action, Adventure, RPG |
 | ![Yesterday Origins](https://cdn.akamai.steamstatic.com/steam/apps/465280/header.jpg?t=1683877469) | Yesterday Origins | Adventure |
