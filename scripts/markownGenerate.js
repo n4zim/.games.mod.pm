@@ -65,9 +65,26 @@ const names = output.map(({ name }) => name)
 const duplicates = names.filter((name, index) => names.indexOf(name) !== index)
 if(duplicates.length) console.error("Duplicates found", duplicates)
 
+let played = "", unplayed = ""
+
+output.sort((a, b) => {
+  return ((b.affinity || 0) - (a.affinity || 0))
+    || ((b.hoursPlayed || 0) - (a.hoursPlayed || 0))
+    || a.name.localeCompare(b.name)
+}).forEach(({ name, genres, image, hoursPlayed, affinity }) => {
+  if(!hoursPlayed && !affinity) {
+    unplayed += `| ![${name}](${image}) | ${name} | ${genres} |\n`
+  } else {
+    played += `| ![${name}](${image}) | ${name} | ${genres} | ${hoursPlayed || ""} | ${affinity ? "⭐".repeat(affinity) : ""} |\n`
+  }
+})
+
 require("fs").writeFileSync(
   "./README.md",
   "# Games Library\n\n"
+    + "- [Stats](#stats)\n"
+    + "- [Played](#played)\n"
+    + "- [Unplayed](#unplayed)\n"
     + "## Stats\n"
     + "- Total games: " + output.length + "\n"
     + "- Days played: " + Math.floor(output.reduce((acc, { hoursPlayed }) => acc + (hoursPlayed || 0), 0) / 24) + "\n"
@@ -75,16 +92,14 @@ require("fs").writeFileSync(
     + "- Total unplayed games: " + Math.round(output.filter(({ hoursPlayed }) => !hoursPlayed).length / output.length * 100) + "%\n"
     + "- Total unrated games: " + Math.round(output.filter(({ affinity }) => !affinity).length / output.length * 100) + "%\n"
     + "- Genres: " + Object.entries(genresCount).sort((a, b) => b[1] - a[1]).map(([genre, count]) => `${genre} (${count})`).join(", ")
-    + "\n## List\n"
+    + "\n## Played\n"
     + "| Image | Name | Genres | Hours Played | Affinity |\n| --- | --- | --- | --- | --- |\n"
-    + output
-        .sort((a, b) => {
-          return ((b.affinity || 0) - (a.affinity || 0))
-            || ((b.hoursPlayed || 0) - (a.hoursPlayed || 0))
-            || a.name.localeCompare(b.name)
-        })
-        .map(({ name, genres, image, hoursPlayed, affinity }) => {
-          return `| ![${name}](${image}) | ${name} | ${genres} | ${hoursPlayed || ""} | ${affinity ? "⭐".repeat(affinity) : ""} |\n`
-        })
-        .join("")
+    + played
+    + "\n## Unplayed\n"
+    + "| Image | Name | Genres |\n| --- | --- | --- |\n"
+    + unplayed
 )
+
+/*console.log("5 stars games :", output.filter(({ affinity }) => affinity === 5).map(({ name }) => name).join(", "))
+console.log("4 stars games :", output.filter(({ affinity }) => affinity === 4).map(({ name }) => name).join(", "))
+console.log("Unplayed games", output.filter(({ hoursPlayed }) => !hoursPlayed).map(({ name }) => name).join(", "))*/
