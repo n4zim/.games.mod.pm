@@ -2010,6 +2010,18 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg?t=1663603925"
   },
+  "220700": {
+    "name": "RPG Maker VX Ace",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220700/header.jpg?t=1724913240"
+  },
   "220740": {
     "name": "Chaos on Deponia",
     "genres": [
@@ -2821,6 +2833,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/287980/header.jpg?t=1689886905"
   },
+  "288160": {
+    "name": "The Room",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288160/header.jpg?t=1646758287"
+  },
   "289130": {
     "name": "ENDLESS™ Legend",
     "genres": [
@@ -3180,6 +3200,16 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/339400/header.jpg?t=1583574534"
   },
+  "339800": {
+    "name": "HuniePop",
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339800/header.jpg?t=1736461926"
+  },
   "341800": {
     "name": "Keep Talking and Nobody Explodes",
     "genres": [
@@ -3205,6 +3235,14 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/344740/header.jpg?t=1697733178"
+  },
+  "346010": {
+    "name": "Besiege",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346010/header.jpg?t=1739810419"
   },
   "346110": {
     "name": "ARK: Survival Evolved",
@@ -3757,6 +3795,15 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/418650/header.jpg?t=1667031863"
   },
+  "418670": {
+    "name": "Pankapu",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418670/header.jpg?t=1733164836"
+  },
   "422970": {
     "name": "Devil Daggers",
     "genres": [
@@ -3781,6 +3828,14 @@
       "Racing"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/425410/header.jpg?t=1669455976"
+  },
+  "425580": {
+    "name": "The Room Two",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425580/header.jpg?t=1646758355"
   },
   "427520": {
     "name": "Factorio",
@@ -3917,6 +3972,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/450390/header.jpg?t=1677266902"
   },
+  "456750": {
+    "name": "The Room Three",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456750/header.jpg?t=1646758393"
+  },
   "457140": {
     "name": "Oxygen Not Included",
     "genres": [
@@ -4023,6 +4086,13 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/474750/header.jpg?t=1645113589"
   },
+  "474960": {
+    "name": "Quantum Break",
+    "genres": [
+      "Action"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1682524073"
+  },
   "475150": {
     "name": "Titan Quest Anniversary Edition",
     "genres": [
@@ -4053,6 +4123,15 @@
       "Action"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/476600/header.jpg?t=1646764749"
+  },
+  "481870": {
+    "name": "Mini Thief",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/481870/header.jpg?t=1740069431"
   },
   "489520": {
     "name": "Minion Masters",
@@ -4622,6 +4701,15 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/673000/header.jpg?t=1659054648"
   },
+  "673610": {
+    "name": "Airport CEO",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/header.jpg?t=1725232871"
+  },
   "674940": {
     "name": "Stick Fight: The Game",
     "genres": [
@@ -4710,6 +4798,15 @@
       "Strategy"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/703080/header.jpg?t=1702900553"
+  },
+  "712730": {
+    "name": "SIMULACRA",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/712730/header.jpg?t=1726816408"
   },
   "714070": {
     "name": "Entropy : Zero",
@@ -4835,6 +4932,22 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/810660/header.jpg?t=1602068195"
   },
+  "813540": {
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813540/header.jpg?t=1741952860"
+  },
+  "813780": {
+    "name": "Age of Empires II: Definitive Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1731939100"
+  },
   "823500": {
     "name": "BONEWORKS",
     "genres": [
@@ -4935,6 +5048,17 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/880580/header.jpg?t=1683095023"
   },
+  "892970": {
+    "name": "Valheim",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg?t=1738051073"
+  },
   "905340": {
     "name": "Heave Ho",
     "genres": [
@@ -4953,6 +5077,14 @@
       "Simulation"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/927270/header.jpg?t=1635817509"
+  },
+  "933110": {
+    "name": "Age of Empires III: Definitive Edition",
+    "genres": [
+      "Free To Play",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933110/header.jpg?t=1691530205"
   },
   "937310": {
     "name": "Infinitode 2 - Infinite Tower Defense",
@@ -4984,6 +5116,22 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/950670/header.jpg?t=1615881412"
   },
+  "960910": {
+    "name": "Heavy Rain",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg?t=1675271942"
+  },
+  "960990": {
+    "name": "Beyond: Two Souls",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960990/header.jpg?t=1667468566"
+  },
   "977570": {
     "name": "The Experiment: Escape Room",
     "genres": [
@@ -5009,6 +5157,14 @@
       "Adventure"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/996580/header.jpg?t=1588789018"
+  },
+  "1011190": {
+    "name": "SIMULACRA 2",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011190/header.jpg?t=1726815281"
   },
   "1012880": {
     "name": "60 Seconds! Reatomized",
@@ -5259,6 +5415,30 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1341290/header.jpg?t=1700228483"
   },
+  "1341820": {
+    "name": "As Dusk Falls",
+    "genres": [
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341820/header.jpg?t=1718812917"
+  },
+  "1361320": {
+    "name": "The Room 4: Old Sins",
+    "genres": [
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/header.jpg?t=1646758366"
+  },
+  "1366540": {
+    "name": "Dyson Sphere Program",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/header.jpg?t=1730445887"
+  },
   "1428100": {
     "name": "Instruments of Destruction",
     "genres": [
@@ -5277,6 +5457,24 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/412020/header.jpg?t=1704725230"
   },
+  "1449690": {
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "genres": [
+      "Adventure"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1729701472"
+  },
+  "1458140": {
+    "name": "Pacific Drive",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/header.jpg?t=1738188317"
+  },
   "1466640": {
     "name": "Road 96 🛣️",
     "genres": [
@@ -5285,6 +5483,11 @@
       "Indie"
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466640/header.jpg?t=1704728210"
+  },
+  "1504980": {
+    "name": "It Takes Two Friend's Pass",
+    "genres": [],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504980/header.jpg?t=1718279116"
   },
   "1507190": {
     "name": "Machinika: Museum",
@@ -5372,6 +5575,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677770/header.jpg?t=1702916913"
   },
+  "1703140": {
+    "name": "Isle of Jura",
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1740941260"
+  },
   "1703340": {
     "name": "The Stanley Parable: Ultra Deluxe",
     "genres": [
@@ -5446,6 +5657,14 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1931770/header.jpg?t=1705488810"
   },
+  "1985170": {
+    "name": "Warhammer 40,000: Warpforge",
+    "genres": [
+      "Strategy",
+      "Free To Play"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985170/header.jpg?t=1737633851"
+  },
   "2162800": {
     "name": "shapez 2",
     "genres": [
@@ -5479,6 +5698,16 @@
     ],
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362420/header.jpg?t=1684251878"
   },
+  "2485640": {
+    "name": "Infection Free Zone – Prologue",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2485640/header.jpg?t=1736799018"
+  },
   "2828500": {
     "name": "The Jackbox Megapicker",
     "genres": [
@@ -5486,6 +5715,16 @@
       "Utilities"
     ],
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828500/header.jpg?t=1727288083"
+  },
+  "2962300": {
+    "name": "Royal Quest Online",
+    "genres": [
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962300/762f82f47cd12dc2da53301b8192c50ed161298a/header.jpg?t=1741953586"
   },
   "3028500": {
     "name": "Cakey's Twisted Bakery",
@@ -5495,5 +5734,24 @@
       "Indie"
     ],
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028500/header.jpg?t=1720351714"
+  },
+  "3212240": {
+    "name": "The Vanishing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212240/header.jpg?t=1727946844"
+  },
+  "3240220": {
+    "name": "Grand Theft Auto V Enhanced",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing"
+    ],
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1741381848"
   }
 }
