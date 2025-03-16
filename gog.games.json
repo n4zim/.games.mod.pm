@@ -47,6 +47,12 @@
     "genres": "Indie, Platform, Sport"
   },
   {
+    "name": "Age of Empires III: Definitive Edition",
+    "image": "https://images.gog.com/f77f3febbcadd32684a6d160ffc2f774e8b3b11e5ff49e621e2ca9560749cc0e_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Real Time Strategy (RTS), Strategy",
+    "gameMins": "33"
+  },
+  {
     "name": "Aimlabs",
     "image": "https://images.gog.com/7e7491c3cccb858c4cdc7e15ea65881e5718f477b96f25878d6178144609aec0_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Indie, Shooter, Simulator"
@@ -124,7 +130,12 @@
     "genres": "Adventure, Indie, Role-playing (RPG), Simulator, Strategy"
   },
   {
-    "name": "Beneath a Steel Sky",
+    "name": "Behind the Frame: The Finest Scenery",
+    "image": "https://images.gog.com/a3ab314cc9e311017e4ef1d56247a05cba74fea08b587f9b5ea669a5c149a410_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Point-and-click, Puzzle, Simulator"
+  },
+  {
+    "name": "Beneath a Steel Sky (1994)",
     "image": "https://images.gog.com/69140ff481409e4f6d553c5bb43ae63d28c3b44a8266408001e196168083c008_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Point-and-click, Puzzle"
   },
@@ -145,7 +156,7 @@
   },
   {
     "name": "Blazing Sails",
-    "image": "https://images.gog.com/d89db042fff057a843c1f5ea0221cf376e91ff752e247074eb792c3bda4fe1df_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/c853b9f062e989db80cbac55202084d5d3cc3dea4c73eea7cfd367a0d8bb8f65_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Shooter, Tactical"
   },
   {
@@ -164,13 +175,23 @@
     "genres": "Adventure, Arcade, Indie, Platform, Puzzle, Strategy"
   },
   {
+    "name": "Brotato",
+    "image": "https://images.gog.com/4931880dbf49694955b018572acdfb999b2c56f8d679fc5ea76c782d91c14e70_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Arcade, Fighting, Indie, Role-playing (RPG), Shooter"
+  },
+  {
+    "name": "Bus Simulator 21 Next Stop",
+    "image": "https://images.gog.com/e9d176ce18d73e4b98e4d7a76c65c02236af16e4df4b8b3dde2303e2e8543f40_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Simulator, Strategy"
+  },
+  {
     "name": "Call of the Wild: The Angler™",
     "image": "https://images.gog.com/0b0e8a2d90f32bb2db7eb256cc7f40788d5a585de6737b343b3e564af37268ad_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Simulator, Sport"
   },
   {
     "name": "The Callisto Protocol",
-    "image": "https://images.gog.com/ae3bfbc3931e80570f1d47b795b3cfa68be8dd9de2337849c96915ca7c3e049c_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/a20b023535eeb474efb1cf62ab9df7aa40867146c11cd2df8f49adddb3e075d1_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Shooter"
   },
   {
@@ -182,6 +203,11 @@
     "name": "Car Mechanic Simulator 2018",
     "image": "https://images.gog.com/3eec69dea83e56cf05e0285839ed3a512e05873e1c068e84245af3783c2dd514_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Racing, Simulator"
+  },
+  {
+    "name": "Castlevania Anniversary Collection",
+    "image": "https://images.gog.com/2920263403abac29c17415a8581a48a41b778d82ac6fb8f2e6422c2be0158308_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Arcade, Fighting, Platform"
   },
   {
     "name": "Cat Quest",
@@ -266,7 +292,7 @@
   },
   {
     "name": "CYGNI - All Guns Blazing",
-    "image": "https://images.gog.com/9a7f28d797d858f791a20dae4737a566d0d4ff9a5dbf3ff65b0cfbd5d9884ce1_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/74977800473cf7d3b14ede29f9ec819e95698ef74bd79da4247ed701f7e4a13c_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Arcade, Indie, Shooter"
   },
   {
@@ -291,12 +317,12 @@
   },
   {
     "name": "Darkest Dungeon®",
-    "image": "https://images.gog.com/b0c9b2e451c5a03ff776d0d45dce20bbb1a06c4b22d207c4559875953e6ad213_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/2499d9ce3a2a36ccb6249dc97fd7617a484b22641479e28b5638ac67dd98548a_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Role-playing (RPG), Strategy"
   },
   {
     "name": "Darkwood",
-    "image": "https://images.gog.com/b3655e1313d943a10476113504bfcd2931b24bf4a5bae800152eafde572e4f21_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/32479309c70701b478e112b31a20d0e18c48ce26a611d55ba283ee8948e6e2da_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Role-playing (RPG)"
   },
   {
@@ -326,9 +352,19 @@
   },
   {
     "name": "Death Stranding",
-    "image": "https://images.gog.com/9b17ce9b632e859cbb4fa7b9a67cddb37f5aa97ffc0591b85e3131757e6300ea_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/d2625f10853a406ab2e3c856d66391b63c355dc5f7e8ff40c0c4b140953d30f7_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Role-playing (RPG), Shooter",
     "gameMins": "2908"
+  },
+  {
+    "name": "Death's Gambit - Afterlife",
+    "image": "https://images.gog.com/94576e36087cfde77f67f07681c4e98c725b2da540db4ea99a53914ffd4046c0_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Role-playing (RPG)"
+  },
+  {
+    "name": "Deceive Inc",
+    "image": "https://images.gog.com/f8ab659438a6d2d0077e088bddf8a168b747f22349afe5e289e5b14a17d3fad7_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Indie, Shooter, Tactical"
   },
   {
     "name": "Deliver Us Mars",
@@ -383,7 +419,7 @@
   },
   {
     "name": "Dragonsphere",
-    "image": "https://images.gog.com/3870137e89407386f33fd4c136cc3e4d09dc60c900704220f40fb72baa01b577_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/fb236f2d52ac71e663f35d876ce5ddf228fb5853aefd8a1c2d70b817e59ac743_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Point-and-click, Puzzle, Quiz/Trivia"
   },
   {
@@ -395,6 +431,11 @@
     "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
     "image": "https://images.gog.com/e23dbbce5b4898944c602adf2b667bb2e81862b85a401b6e73a151cee8e0421b_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Role-playing (RPG), Strategy, Tactical, Turn-based strategy (TBS)"
+  },
+  {
+    "name": "Dungeon of the Endless: Apogee",
+    "image": "https://images.gog.com/b0e591a60b0156d4a8a530dcbc1a9e57f3a4c40d853f80ed71f605dbe8bf1c08_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Role-playing (RPG), Strategy"
   },
   {
     "name": "Dungeons 3",
@@ -432,6 +473,11 @@
     "genres": "Simulator, Strategy"
   },
   {
+    "name": "Empyrion - Galactic Survival",
+    "image": "https://images.gog.com/008e0f3a8a1403e524ab04d25d843dc9e3ce1fb04006a5b98c614af844dee228_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Shooter, Simulator, Strategy"
+  },
+  {
     "name": "Encased",
     "image": "https://images.gog.com/34cbb5b33b3ef38bc161ee65c77612482989768d8f9e3bb132f61081099932b3_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Role-playing (RPG), Strategy, Tactical"
@@ -459,7 +505,7 @@
   {
     "name": "Eternal Threads",
     "image": "https://images.gog.com/c423c1bdcb80c5dfde652a435b0a9dd90b46d61e7413aaca7a90a7b77e218dfe_glx_square_icon_v2.webp?namespace=gamesdb",
-    "genres": "Adventure, Arcade, Indie, Puzzle"
+    "genres": "Adventure, Indie, Puzzle"
   },
   {
     "name": "Europa Universalis IV",
@@ -485,6 +531,11 @@
     "name": "Eximius: Seize the Frontline",
     "image": "https://images.gog.com/05442e392fe9ba6b9f4686f65587a2a0320622d00b5ace198ac815fe14345193_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Indie, Real Time Strategy (RTS), Shooter, Strategy"
+  },
+  {
+    "name": "F1® Manager 2024",
+    "image": "https://images.gog.com/9e1dcac5fb9134ab022538999940ddf703333e85b10697ef592cb1623db23fea_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Racing, Simulator, Sport, Strategy"
   },
   {
     "name": "The Falconeer",
@@ -558,13 +609,18 @@
   },
   {
     "name": "Freshly Frosted",
-    "image": "https://images.gog.com/88586f350e622cd179e01a9507d5624e0d4ab3bb292c727d8d5047cfe6c6a3a5_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/04574dad9cc9f5f6a4cef43ee80bd08f53ff6cb4ef0b987d9ea9be9d5926ed5d_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Arcade, Indie, Puzzle, Simulator, Strategy"
   },
   {
     "name": "Gamedec",
     "image": "https://images.gog.com/34bac5ad8bd5fb7675c91c4b78aab0239f1c68e9a8db2d5e1715d39859081392_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Point-and-click, Puzzle, Role-playing (RPG)"
+  },
+  {
+    "name": "Garden Story",
+    "image": "https://images.gog.com/88107dbc65b6b0c77c4f4c8be417f8b7ead669bfcc638e8b8c4a0efbe6bcb289_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Role-playing (RPG), Simulator"
   },
   {
     "name": "Geneforge 1: Mutagen",
@@ -587,6 +643,11 @@
     "genres": "Arcade, Fighting, Hack and slash/Beat 'em up, Indie"
   },
   {
+    "name": "Gigantic: Rampage Edition",
+    "image": "https://images.gog.com/65dc6a90830e021b84dc40e01f4032827a5383d1b115e23f2f7e8123f1d42c6f_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": ""
+  },
+  {
     "name": "Gloomhaven",
     "image": "https://images.gog.com/1ae7e08a37a1f0d360dd1ade9df815b1ea7aea6cf5a42c09e64715be1c318a39_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Role-playing (RPG), Strategy, Tactical, Turn-based strategy (TBS)"
@@ -605,6 +666,11 @@
     "name": "Golden Light",
     "image": "https://images.gog.com/73b79d1f3d51d9ecad2555c2250544d1afe43cb21e93d8e6cae3081959f0379d_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie"
+  },
+  {
+    "name": "Grand Theft Auto V Enhanced",
+    "image": "https://images.gog.com/116df05769af156ae5d2b025d327bcb24258ddf083d2013eb1f35381724618b8_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Racing"
   },
   {
     "name": "GRIME",
@@ -632,6 +698,11 @@
     "genres": "Adventure, Indie, Shooter, Simulator, Strategy"
   },
   {
+    "name": "Hell Let Loose",
+    "image": "https://images.gog.com/13d37a5b973a4b3343b62fa4d8d2daaa0c327493fed17c0f52a19ab344fedf08_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Indie, Shooter, Simulator, Strategy"
+  },
+  {
     "name": "HITMAN 3",
     "image": "https://images.gog.com/d9c16deebf1712a92e2937c3d0d435721cc82cd8b3d8d8c9d2f8692041a4384a_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Shooter, Tactical",
@@ -656,6 +727,11 @@
     "name": "Horizon Chase Turbo",
     "image": "https://images.gog.com/9d11d39af4802139228003be3f2d6bba128b2df8bad3755b61c96bea656025a4_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Indie, Racing, Sport"
+  },
+  {
+    "name": "HumanKind",
+    "image": "https://images.gog.com/6ed62e43c21be5382dde5617aa07a98fe0fba758dfa4abd285bbf2832d08f4d5_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Simulator, Strategy, Turn-based strategy (TBS)"
   },
   {
     "name": "Idle Champions of the Forgotten Realms",
@@ -720,6 +796,11 @@
     "genres": "Adventure"
   },
   {
+    "name": "Kardboard Kings",
+    "image": "https://images.gog.com/83b6a3cee1ed006503869529c81173ee477fef27c9f06370da830e0e4753dd47_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Card & Board Game, Indie, Role-playing (RPG), Simulator, Strategy, Visual Novel"
+  },
+  {
     "name": "KID A MNESIA EXHIBITION",
     "image": "https://images.gog.com/be9bb7f551108652d07a78019438f8426e3d6d46a48f8d99e4abb148a4af625b_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Music"
@@ -770,6 +851,11 @@
     "genres": "Adventure, Indie, Puzzle"
   },
   {
+    "name": "LEGO® Star Wars™: The Skywalker Saga",
+    "image": "https://images.gog.com/267edb798f59e49175189e0095553aeeeb33cfbbb1e44da6e9d739525a41ae96_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Puzzle"
+  },
+  {
     "name": "Lifeless Planet: Premier Edition",
     "image": "https://images.gog.com/ff17704fa3fdd201aa8848a8b271394672c9e31856771f449b14e0919c05155d_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Puzzle"
@@ -800,13 +886,18 @@
     "genres": "Adventure, Card & Board Game, Indie, Role-playing (RPG), Strategy"
   },
   {
+    "name": "The Lord of The Rings Return to Moria",
+    "image": "https://images.gog.com/301803cbc1d5632a2454fb44e8a4f3057a043317e9f110846218f3666e49954a_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Role-playing (RPG)"
+  },
+  {
     "name": "Lost Castle",
     "image": "https://images.gog.com/e468da6dd40a5cb88f37cf6069b17082d8ed908350ea0e4d358cf2507e00a2e2_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Arcade, Fighting, Indie, Role-playing (RPG)"
   },
   {
     "name": "LOVE",
-    "image": "https://images.gog.com/516c15e3389bc48500f8db1b0b471e0aae14bf26cb268b539f5d901275c850f0_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/df6c6f6f02d7aa86ac10a28e21480a972576b946b36e764868c43a8d5c3c3ba2_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Platform"
   },
   {
@@ -815,7 +906,7 @@
     "genres": "Adventure, Arcade, Indie, Puzzle, Simulator"
   },
   {
-    "name": "Lure of the Temptress",
+    "name": "Lure of the Temptress (1992)",
     "image": "https://images.gog.com/43fe4a10fc911d5be00844f91bab3ffa98fbebd58c205a9471b82c87eb8a679e_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Point-and-click, Puzzle"
   },
@@ -831,9 +922,14 @@
   },
   {
     "name": "Maneater",
-    "image": "https://images.gog.com/d23307fa4101b4e30c5adca61b3123cb29a2d5b8a73ab2f92e83c5efada5bd5b_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/4ae6208bffdcd712d1a58becc325e5bc47cdfc061da471147af526ad293040d7_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Role-playing (RPG)",
     "gameMins": "44"
+  },
+  {
+    "name": "Marvel's Guardians of the Galaxy",
+    "image": "https://images.gog.com/c3183e7e6873030f2fdba9afb31b96929d7a37bb2d0b3c98736a6756db60d62f_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Role-playing (RPG), Shooter"
   },
   {
     "name": "Marvel's Midnight Suns",
@@ -848,7 +944,7 @@
   },
   {
     "name": "Mass Effect™ 3 Demo",
-    "image": "https://images.gog.com/acc4854d9d05aa741bbe18b2126934a378b16eb818506eec2d9d6ad554fa30ba_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/b0d7cecef5c77ecfdcce79098426cf533ee9ac0dc75473bc81666228186a45d6_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Role-playing (RPG), Shooter",
     "gameMins": "2207"
   },
@@ -951,7 +1047,7 @@
   },
   {
     "name": "Olympics Go! Paris 2024",
-    "image": "",
+    "image": "https://images.gog.com/4e4ceda5bb5c3ab334733266c61e580033d590841de5fb55f30e2b5bc1dd0edd_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Sport"
   },
   {
@@ -968,6 +1064,11 @@
     "name": "The Outer Worlds: Spacer's Choice Edition",
     "image": "https://images.gog.com/fc07cdba1efb42a90e2ac7e3bb3b60c1606e5e41f0636cda898987a7d1ee0ed0_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Role-playing (RPG), Shooter"
+  },
+  {
+    "name": "Outliver: Tribulation",
+    "image": "https://images.gog.com/df6f34e3368e9bbcd97f203228a9711394849499ca055ea7783c300f93ba17e7_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Shooter"
   },
   {
     "name": "Paradigm",
@@ -1016,7 +1117,7 @@
   },
   {
     "name": "Rage 2",
-    "image": "https://images.gog.com/5aad59dd22ff316cb00d5c52fbb5120400bb935c95a621b816f3cc292fdb5921_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/02f68feddbf5d6c02ed71523c723b3a35c105303a12c695b7ba1913ab32a3f94_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Racing, Role-playing (RPG), Shooter"
   },
   {
@@ -1091,7 +1192,7 @@
   },
   {
     "name": "Sail Forth",
-    "image": "https://images.gog.com/7c8cfd986b3327a8d4e11c235398364e132f995a370d8dd75c592c5b71406e3b_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/666c8b47f21af0254c30048fae81b576648db01d596114c6b619067bb9d8f1af_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Racing, Role-playing (RPG), Simulator, Strategy"
   },
   {
@@ -1136,7 +1237,7 @@
   },
   {
     "name": "Shadow Tactics: Blades of the Shogun",
-    "image": "https://images.gog.com/9fdc43f379fa9725b9aa8eb48001a549b0fa4aa6329269fd3706a6438ad4f183_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/0647f4991898f96386fabf609886c93f44073b03cb910687091a3802fbd64383_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Strategy, Tactical"
   },
   {
@@ -1159,6 +1260,11 @@
     "image": "https://images.gog.com/18d95bbd1690461bd3820e0064a23db72dce383a4fcb1cbc2c049913bc0a9f58_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Simulator, Strategy",
     "gameMins": "47"
+  },
+  {
+    "name": "Sifu",
+    "image": "https://images.gog.com/b370e0b6776f35303272ce3c95c78cb14aefc47131adfdece68d40bf8f477e94_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Indie"
   },
   {
     "name": "SimCity™",
@@ -1208,7 +1314,7 @@
   },
   {
     "name": "STAR WARS™ Battlefront™ II",
-    "image": "https://images.gog.com/602f324c4218f015c9e21dd06dbee6e118050364391258f16f41b4cfc47fc7e9_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/3403d51d146041a379be0714e8001b51ca79417604d92c0c702defe17ac9830b_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Shooter"
   },
   {
@@ -1329,7 +1435,7 @@
   },
   {
     "name": "Total Annihilation: Commander Pack",
-    "image": "https://images.gog.com/4702c69eab4133ae4b3ed711a0d1ebfed65b170606dd99a9f2ea648c467408a3_glx_square_icon_v2.webp?namespace=gamesdb",
+    "image": "https://images.gog.com/f9d1c229c5c6fc9e937153ee79f16d652aa2492b2c62cf2e735d06a3b474c18d_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Strategy"
   },
   {
@@ -1388,6 +1494,11 @@
     "genres": ""
   },
   {
+    "name": "Undying",
+    "image": "https://images.gog.com/f6e8cd321f8dd89a7448b746dd14d71d773079f0515f5628ea6cc867104eab51_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Indie, Role-playing (RPG), Strategy"
+  },
+  {
     "name": "Unreal Tournament",
     "image": "https://images.gog.com/e3fd3fec120624a667905fb9c3952933a1424d9f296de412aa087512ad7f2e78_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Shooter"
@@ -1397,6 +1508,11 @@
     "image": "https://images.gog.com/3f80e2913ca2fee63e0958822c443bffc4bc1460b8fad2257badbec6ee593fc2_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Puzzle, Simulator",
     "gameMins": "248"
+  },
+  {
+    "name": "Vampire Survivors",
+    "image": "https://images.gog.com/cc40e792418ec465f72c1cd668fb2bf54012970996524d9cbb66f8527b29aff4_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Adventure, Arcade, Indie, Role-playing (RPG)"
   },
   {
     "name": "The Vanishing of Ethan Carter",
@@ -1445,6 +1561,11 @@
     "genres": "Adventure, Indie, Role-playing (RPG)"
   },
   {
+    "name": "Witch It",
+    "image": "https://images.gog.com/765de0ea5299dfc04209868f8637c23133df641b8dd4265893e0f0b035ac35cd_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Indie, Shooter"
+  },
+  {
     "name": "Wolfenstein: The New Order",
     "image": "https://images.gog.com/1fada6930b27379cacdc1e1b0cc338d6d84133e28234ca025a8b6cb20712d7ad_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Shooter"
@@ -1453,6 +1574,11 @@
     "name": "Wonder Boy The Dragons Trap",
     "image": "https://images.gog.com/056e9a04957aeaf47b03a1870f39199e9ff27220e9c708597a4e2b120daff7e4_glx_square_icon_v2.webp?namespace=gamesdb",
     "genres": "Adventure, Indie, Platform"
+  },
+  {
+    "name": "World War Z",
+    "image": "https://images.gog.com/20e76259a150cc9168dd07cf37cde86270ebf538c35d11f2e8315bc056932294_glx_square_icon_v2.webp?namespace=gamesdb",
+    "genres": "Shooter"
   },
   {
     "name": "Yoku's Island Express, ",
